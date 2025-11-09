@@ -1,1001 +1,1001 @@
 ID,Date,Name,Age,Income,Employment_status,Purpose,Loan_Amount,Credit_History
-1,2011-06-21,Donna Napier,84,5353,Employed,Medical_Expenses,7861,877
-2,2022-03-25,John Vega,30,0,UnEmployed,Emergence_Expenses,3404,4255
-3,2017-02-26,Richard Ward,75,3468,Employed,Investing,5462,2125
-4,2015-11-27,Robert Jaquess,87,9017,Employed,Medical_Expenses,6683,1810
-5,2015-05-16,Mark Labounty,47,3863,Employed,Personal Use,8789,1022
-6,2011-01-27,Dana Hamilton,51,9561,Employed,Traveling,2003,1524
-7,2017-02-13,William Mitchell,42,0,UnEmployed,Medical_Expenses,3641,963
-8,2010-02-15,Joel Schlau,28,0,UnEmployed,Business,8324,3552
-9,2019-09-06,Dale Hardy,31,0,UnEmployed,Weddings,8733,4142
-10,2011-08-07,Irene Harris,28,0,UnEmployed,Traveling,6077,2496
-11,2012-04-21,Jesse Lacher,44,0,UnEmployed,Investing,2834,1901
-12,2021-03-16,Emily Daniels,72,0,UnEmployed,Personal Use,8009,4583
-13,2010-11-01,Albert Putney,89,8717,Employed,Business,5889,917
-14,2017-08-17,Linda Newsome,21,0,UnEmployed,Emergence_Expenses,794,4321
-15,2024-03-20,David Williamson,30,0,UnEmployed,Personal Use,1114,3600
-16,2011-01-09,Ann Woods,77,4630,Employed,Weddings,8041,3642
-17,2014-01-12,William Meraz,31,0,UnEmployed,Business,5446,4972
-18,2024-06-27,Alice Swift,25,7379,Employed,Education,4765,3521
-19,2013-08-29,Nancy Mcleod,89,0,UnEmployed,Traveling,8546,1795
-20,2017-05-16,Katrina Mueller,74,0,UnEmployed,Weddings,5995,3151
-21,2010-12-14,Ned Russell,66,0,UnEmployed,Personal Use,4425,4106
-22,2023-06-18,Gary Gott,25,3684,Employed,Investing,2567,611
-23,2017-05-10,Tanya King,71,0,UnEmployed,Emergence_Expenses,3230,1503
-24,2023-04-26,Kelly Cunningham,86,0,UnEmployed,Emergence_Expenses,6682,4164
-25,2012-01-09,Betty Imler,88,9694,Employed,Investing,7102,4429
-26,2012-07-08,Adam Zukof,59,5621,Employed,Medical_Expenses,7780,1259
-27,2010-02-08,Hattie Johnson,70,0,UnEmployed,Personal Use,4867,4100
-28,2012-12-18,Carol Morse,35,0,UnEmployed,Medical_Expenses,1380,1383
-29,2016-09-18,Rosalind Wiggins,81,2180,Employed,Weddings,8380,1619
-30,2010-12-24,Mark Sokoloski,65,0,UnEmployed,Emergence_Expenses,6336,3319
-31,2016-07-14,Jamie Ruiz,88,2273,Employed,Education,1505,2228
-32,2011-01-29,Wendy Willette,95,0,UnEmployed,Traveling,7671,2761
-33,2019-10-07,Eugene Reed,83,0,UnEmployed,Education,6834,2401
-34,2015-09-18,Anthony Diaz,45,8114,Employed,Personal Use,2499,3679
-35,2017-02-26,John Ryan,91,0,UnEmployed,Traveling,1123,3991
-36,2016-06-10,Ronnie Grayson,26,4643,Employed,Medical_Expenses,8935,942
-37,2018-01-22,Matthew Marriner,23,9008,Employed,Business,1657,1322
-38,2013-11-20,Andrew Prichard,46,9920,Employed,Medical_Expenses,3100,2091
-39,2011-02-04,Michael Flickinger,44,0,UnEmployed,Business,8971,1981
-40,2023-05-05,Richard Jones,94,0,UnEmployed,Investing,3786,3670
-41,2021-05-09,Kevin Pontius,85,8446,Employed,Emergence_Expenses,8139,2419
-42,2020-05-11,Bryan Smith,68,0,UnEmployed,Traveling,3399,2789
-43,2018-12-01,John Rhinehart,48,0,UnEmployed,Weddings,2472,838
-44,2016-04-17,Brian Patterson,80,0,UnEmployed,Business,8402,748
-45,2018-03-22,Michael Mcdaniel,78,6330,Employed,Traveling,8510,3309
-46,2011-03-09,Bradley Garcia,43,4432,Employed,Personal Use,5352,3490
-47,2014-10-18,Kyle Lin,36,0,UnEmployed,Weddings,2999,1237
-48,2019-03-13,Kellie Mcgrew,75,0,UnEmployed,Business,2751,3984
-49,2022-05-25,Robert Woodbury,46,0,UnEmployed,Investing,5303,3001
-50,2016-04-16,Joyce Scher,78,0,UnEmployed,Business,8690,1114
-51,2010-10-19,Valerie Walden,89,4585,Employed,Emergence_Expenses,2468,2370
-52,2010-06-15,Richard Meyer,79,9393,Employed,Emergence_Expenses,9233,1149
-53,2012-04-26,Andrea Ford,34,8693,Employed,Personal Use,3284,3310
-54,2011-12-06,Sylvia Green,78,9171,Employed,Emergence_Expenses,2180,3238
-55,2013-07-26,Moses Poisson,21,3982,Employed,Personal Use,3295,4171
-56,2016-01-28,Brooke Selman,61,0,UnEmployed,Education,7130,4750
-57,2019-01-29,Benjamin Behan,80,0,UnEmployed,Investing,912,4221
-58,2023-08-28,Michaela Korte,28,0,UnEmployed,Emergence_Expenses,9652,1614
-59,2013-08-01,Julie Boyd,99,2271,Employed,Investing,529,2603
-60,2013-01-17,Eleanor Ramberg,84,0,UnEmployed,Emergence_Expenses,4990,2564
-61,2022-01-30,Richard Washington,94,0,UnEmployed,Emergence_Expenses,5649,4352
-62,2022-05-03,David Pink,26,0,UnEmployed,Emergence_Expenses,7421,3050
-63,2018-07-31,Arnold Carroll,44,8592,Employed,Weddings,2810,4290
-64,2016-09-23,Sheila Stern,38,2543,Employed,Investing,6796,3507
-65,2011-06-29,Donna Merz,64,0,UnEmployed,Investing,7261,1688
-66,2010-05-29,John Hernandez,93,0,UnEmployed,Business,8865,3343
-67,2018-09-26,Harold Johnson,68,0,UnEmployed,Personal Use,5031,2793
-68,2011-09-07,William White,28,3367,Employed,Business,6813,4755
-69,2024-10-01,Merle Chiles,70,7157,Employed,Education,4588,4340
-70,2015-05-01,Craig Galvan,74,0,UnEmployed,Business,8131,2734
-71,2018-05-31,Esther Edes,22,4608,Employed,Education,2815,1721
-72,2023-10-05,Preston Martinez,84,0,UnEmployed,Emergence_Expenses,5827,603
-73,2013-12-22,Tiffany Wollenburg,44,6214,Employed,Weddings,5298,2770
-74,2012-06-24,Jack Gibbs,43,0,UnEmployed,Weddings,1829,4987
-75,2024-11-07,Shirley Stinnett,76,0,UnEmployed,Education,8099,4602
-76,2013-10-02,Mike Leonard,26,6958,Employed,Education,9873,4436
-77,2017-08-21,William Gallucci,74,4407,Employed,Education,2682,605
-78,2021-07-14,Toby Dacosta,69,0,UnEmployed,Business,8607,4332
-79,2014-03-16,Aimee Gary,99,3636,Employed,Medical_Expenses,9206,1964
-80,2013-03-12,Nikki Kerns,47,0,UnEmployed,Business,2064,4195
-81,2014-09-14,Dennis Turner,96,0,UnEmployed,Education,8691,2488
-82,2013-08-10,Ruth Creasey,86,0,UnEmployed,Personal Use,4833,1481
-83,2023-07-10,Adelaide Copeland,30,0,UnEmployed,Medical_Expenses,2549,1477
-84,2010-01-08,Charles Mitchell,42,7107,Employed,Personal Use,7304,2974
-85,2011-02-12,Walter Rivers,76,3890,Employed,Personal Use,2117,3035
-86,2012-08-10,Shirley Melton,60,7164,Employed,Medical_Expenses,2046,4852
-87,2015-07-30,Felipe Eisentrout,71,0,UnEmployed,Emergence_Expenses,1668,3991
-88,2023-05-12,Molly Hale,68,4049,Employed,Medical_Expenses,1370,2645
-89,2016-11-08,Anjanette Jefferson,94,0,UnEmployed,Medical_Expenses,4251,2794
-90,2015-01-06,Fernando Mares,82,0,UnEmployed,Weddings,2636,2452
-91,2010-10-06,Jimmy Wood,45,8307,Employed,Emergence_Expenses,4381,4456
-92,2013-09-14,Donna Bose,29,0,UnEmployed,Weddings,5277,901
-93,2015-06-05,Mark Smith,97,0,UnEmployed,Investing,6779,783
-94,2021-04-15,Brenda Cashman,85,2254,Employed,Business,6833,3557
-95,2019-02-23,Rebecca Hughes,67,6389,Employed,Education,1505,3654
-96,2013-01-06,Luis Dixie,96,8854,Employed,Emergence_Expenses,8395,4856
-97,2017-11-16,Ralph Ellison,85,2877,Employed,Weddings,5060,2500
-98,2013-01-21,Melvina Shupe,61,0,UnEmployed,Personal Use,4435,2718
-99,2014-05-27,Bryan German,21,9102,Employed,Business,8157,1688
-100,2022-03-02,Shirley Parker,53,9545,Employed,Investing,9625,854
-101,2015-07-07,Ellen Fichter,31,8159,Employed,Business,5054,2179
-102,2020-10-04,David Mendelson,97,0,UnEmployed,Personal Use,1284,2054
-103,2011-11-11,Ronald Baxter,51,0,UnEmployed,Medical_Expenses,6787,2605
-104,2024-06-24,Jonathan Hall,55,0,UnEmployed,Business,3589,1705
-105,2019-11-04,Eric Matinez,71,0,UnEmployed,Emergence_Expenses,5061,4259
-106,2015-07-12,Gayle Buck,80,6431,Employed,Personal Use,3780,542
-107,2020-09-10,George Pychardo,26,3906,Employed,Investing,8013,3629
-108,2011-04-26,Sara Mullins,24,8890,Employed,Investing,9490,1807
-109,2022-09-25,Dana Stancil,48,0,UnEmployed,Investing,2884,1574
-110,2024-08-26,James Pannell,62,5742,Employed,Weddings,9229,1206
-111,2014-06-21,Yvette Holt,27,0,UnEmployed,Education,6022,2490
-112,2020-11-25,Casey Schneeman,94,2545,Employed,Education,8635,3667
-113,2013-08-23,Alfonzo Piotrowski,44,5656,Employed,Medical_Expenses,3437,4501
-114,2013-11-14,Pamela Smith,50,0,UnEmployed,Medical_Expenses,3238,1150
-115,2021-05-24,Juan Faber,80,0,UnEmployed,Business,1240,4951
-116,2021-09-21,Josh Jones,35,0,UnEmployed,Medical_Expenses,4797,4574
-117,2015-03-12,Jessie Cane,30,6094,Employed,Traveling,8909,575
-118,2021-08-09,Carol Greene,49,5488,Employed,Traveling,5308,2713
-119,2024-07-04,Mary Turner,97,0,UnEmployed,Traveling,4663,510
-120,2016-06-10,Grace Manning,97,6371,Employed,Business,7436,4879
-121,2010-10-10,Jacqueline Johnson,47,0,UnEmployed,Weddings,9997,3374
-122,2022-02-27,Bradley Thigpen,38,0,UnEmployed,Weddings,6779,2669
-123,2020-04-11,Amy Lawson,76,5803,Employed,Traveling,528,4862
-124,2018-08-22,Robert Stark,67,9109,Employed,Personal Use,9876,1497
-125,2012-12-09,Yvette Johnson,93,0,UnEmployed,Business,8714,2473
-126,2024-12-02,George Simmons,81,3414,Employed,Emergence_Expenses,9740,1117
-127,2018-02-03,Shannon Jensen,22,0,UnEmployed,Investing,9100,2236
-128,2024-12-13,Nancy Gomez,29,0,UnEmployed,Investing,5420,4557
-129,2018-01-26,Stephanie Moore,44,5841,Employed,Investing,1022,3121
-130,2021-06-27,Kimberly Shelton,68,3865,Employed,Emergence_Expenses,6901,1178
-131,2020-01-05,Lisa Cook,51,0,UnEmployed,Investing,5467,4392
-132,2016-01-06,Ruth Coon,94,7205,Employed,Investing,6693,2182
-133,2014-05-10,Mark Motte,99,0,UnEmployed,Education,6268,3935
-134,2010-01-13,Richard Fonte,42,4223,Employed,Business,8567,4626
-135,2014-06-04,Mary Perkins,48,0,UnEmployed,Education,3155,2210
-136,2020-08-10,Bart Mcgowan,25,3481,Employed,Personal Use,9074,3109
-137,2020-02-11,William Eubank,73,8693,Employed,Investing,841,2148
-138,2012-04-20,Kathleen Gowins,32,0,UnEmployed,Traveling,2938,3216
-139,2011-06-14,Jane Brotherton,41,0,UnEmployed,Personal Use,9879,3864
-140,2021-11-29,Willie Jacobs,92,6647,Employed,Business,9655,1242
-141,2024-12-16,Joe Jacobsen,70,0,UnEmployed,Weddings,9664,1789
-142,2015-12-13,Gary Cameron,95,0,UnEmployed,Medical_Expenses,7950,1741
-143,2023-05-27,Earl Brown,70,0,UnEmployed,Personal Use,8982,4714
-144,2018-11-15,Gilda Mcgrath,60,0,UnEmployed,Emergence_Expenses,1451,3551
-145,2018-09-01,Aaron Spiegel,52,6879,Employed,Traveling,7386,4442
-146,2012-07-09,Jason Bowman,58,0,UnEmployed,Traveling,5055,4254
-147,2013-09-18,Gail Hamilton,36,0,UnEmployed,Business,3497,970
-148,2014-05-29,Toni Chen,55,0,UnEmployed,Personal Use,6859,3922
-149,2018-07-13,Regina Marroquin,61,0,UnEmployed,Business,8243,2867
-150,2023-04-13,William Louis,44,9448,Employed,Investing,8985,4291
-151,2023-08-19,Ron Magoun,22,2650,Employed,Emergence_Expenses,619,592
-152,2011-03-22,John Hunstad,99,5197,Employed,Weddings,8910,2301
-153,2013-11-28,Jeff Mccorkle,42,4994,Employed,Education,6459,1191
-154,2011-10-16,Edward Little,69,4660,Employed,Weddings,1611,1099
-155,2020-02-14,Anthony Marsh,22,0,UnEmployed,Business,7799,2555
-156,2014-09-10,Ashley Friend,59,7065,Employed,Investing,4456,3393
-157,2021-02-22,Jose Crick,82,0,UnEmployed,Traveling,1177,4670
-158,2017-10-04,Sergio Shuman,25,7688,Employed,Medical_Expenses,3844,2702
-159,2010-03-28,Mary Mansfield,28,7459,Employed,Traveling,7721,4157
-160,2010-11-20,Adela Edwards,72,0,UnEmployed,Medical_Expenses,2629,2402
-161,2012-12-21,Mary Cardona,62,0,UnEmployed,Investing,5087,4800
-162,2010-05-02,Kyle Daniels,35,0,UnEmployed,Weddings,1794,1795
-163,2018-10-08,Marget Jones,23,6542,Employed,Personal Use,8204,3172
-164,2018-12-30,Paul Pennington,27,5769,Employed,Weddings,9374,1572
-165,2019-03-31,Royce Head,94,0,UnEmployed,Personal Use,1565,3865
-166,2016-07-30,Frank Monk,45,0,UnEmployed,Investing,9008,4878
-167,2024-04-22,Jessica Harrell,32,0,UnEmployed,Personal Use,3265,1466
-168,2022-09-01,Libby Cranford,88,0,UnEmployed,Investing,3972,4129
-169,2016-04-13,Patricia Schiel,85,7994,Employed,Emergence_Expenses,5806,3576
-170,2021-10-05,Richard Nathan,73,0,UnEmployed,Personal Use,6213,1083
-171,2012-05-23,Frances Lopez,54,3704,Employed,Weddings,840,3006
-172,2013-12-04,Scott Sanders,45,6832,Employed,Emergence_Expenses,4873,3776
-173,2014-05-14,Constance Launderville,41,0,UnEmployed,Weddings,5047,1160
-174,2023-06-08,Brandon Davis,61,0,UnEmployed,Emergence_Expenses,6920,2318
-175,2015-11-20,Terrance Aslam,50,8351,Employed,Personal Use,1764,1657
-176,2019-11-23,Margaret Blalock,22,0,UnEmployed,Traveling,1239,2539
-177,2024-12-24,Shannon Pitzer,92,0,UnEmployed,Weddings,2516,2036
-178,2024-05-12,Martin Certain,56,6771,Employed,Emergence_Expenses,3441,1348
-179,2010-01-13,Jennifer Hammonds,74,0,UnEmployed,Investing,5783,1194
-180,2017-03-21,Karin Weber,42,6521,Employed,Personal Use,5716,2441
-181,2024-04-02,Brenda Rodriguez,21,2245,Employed,Personal Use,916,1537
-182,2011-11-13,Benito Cowen,83,7734,Employed,Medical_Expenses,6014,4499
-183,2023-11-18,Jacob Schlicht,79,5839,Employed,Weddings,7778,4314
-184,2011-08-21,Kathy Webber,27,3511,Employed,Education,9802,1736
-185,2023-04-05,Donald Bunch,98,2810,Employed,Traveling,938,1442
-186,2013-02-17,Michael Rueb,28,0,UnEmployed,Emergence_Expenses,1419,3527
-187,2014-10-01,Charles Tolentino,56,6758,Employed,Education,777,3412
-188,2021-01-10,Alexis Deck,83,4068,Employed,Business,7037,1670
-189,2016-01-14,Ruth Buono,75,7047,Employed,Education,4975,2768
-190,2017-10-17,Charlie Ditch,51,0,UnEmployed,Education,1004,3587
-191,2016-08-20,Diana Lansberry,63,9905,Employed,Emergence_Expenses,7798,2121
-192,2019-06-13,Lisa Lore,90,0,UnEmployed,Medical_Expenses,2808,4757
-193,2014-05-18,Raymond Nicoletti,70,0,UnEmployed,Investing,8091,4843
-194,2018-09-02,Alicia Klingenberger,72,0,UnEmployed,Investing,1025,1972
-195,2016-03-01,Lawrence Moore,62,4425,Employed,Business,5941,882
-196,2013-07-14,George Zach,82,6242,Employed,Business,8228,1835
-197,2021-07-30,Tom Brown,73,2434,Employed,Education,9418,1876
-198,2023-12-26,Haley Perez,91,0,UnEmployed,Emergence_Expenses,4952,3373
-199,2013-08-03,Lottie Adams,65,0,UnEmployed,Business,4354,822
-200,2019-10-05,Beulah Sperdute,90,3712,Employed,Business,1549,3424
-201,2019-11-19,Dale Douglas,38,9585,Employed,Medical_Expenses,7896,3150
-202,2022-05-19,Beverly Johnson,41,0,UnEmployed,Investing,7738,1945
-203,2013-11-26,Michael Johnston,24,8294,Employed,Weddings,8319,1809
-204,2010-06-06,Juan Crutchfield,87,0,UnEmployed,Business,1478,4909
-205,2019-10-31,Jina Chang,31,2796,Employed,Traveling,8228,1454
-206,2017-07-17,Bertha Medina,36,4321,Employed,Emergence_Expenses,9656,4665
-207,2023-05-27,Philip Taylor,71,9383,Employed,Personal Use,6246,2131
-208,2016-11-19,Robert Blais,38,6194,Employed,Weddings,4002,1857
-209,2017-10-03,Robert Westfield,64,0,UnEmployed,Traveling,2949,1891
-210,2012-08-10,Laura Finnie,64,0,UnEmployed,Emergence_Expenses,3379,1688
-211,2011-11-05,Edward Owens,77,0,UnEmployed,Medical_Expenses,2677,541
-212,2019-11-20,Cameron Mellinger,58,8131,Employed,Emergence_Expenses,4923,4424
-213,2022-06-27,Estelle Powell,68,0,UnEmployed,Investing,8097,4537
-214,2017-10-03,Donna Martinez,33,0,UnEmployed,Education,2370,1012
-215,2019-11-26,Matthew Arthur,25,3014,Employed,Business,1304,3996
-216,2010-05-31,Jose Allen,23,4923,Employed,Education,8405,2515
-217,2018-02-21,Edgar Mcfadden,28,0,UnEmployed,Medical_Expenses,727,3273
-218,2018-10-25,Cheryl Linares,77,0,UnEmployed,Personal Use,4909,4145
-219,2011-10-26,Edward Smith,61,0,UnEmployed,Business,7237,640
-220,2021-06-19,Keith Gillette,96,0,UnEmployed,Medical_Expenses,8641,4765
-221,2012-03-20,Alberto Gutierrez,24,3054,Employed,Traveling,2994,3445
-222,2018-04-25,Amy James,58,9461,Employed,Emergence_Expenses,2018,2747
-223,2013-11-30,Jean Lacey,96,0,UnEmployed,Weddings,8132,4111
-224,2015-02-10,Jeffrey Scarborough,51,0,UnEmployed,Emergence_Expenses,1131,610
-225,2023-03-16,Christopher Parker,34,3699,Employed,Emergence_Expenses,1560,4341
-226,2021-11-15,Lacey White,44,5289,Employed,Personal Use,9238,4099
-227,2019-06-06,Myriam Armstrong,57,5912,Employed,Traveling,1118,972
-228,2024-01-12,Michelle Ball,29,0,UnEmployed,Weddings,8310,4480
-229,2014-12-16,Clifford Brown,63,5171,Employed,Medical_Expenses,1701,1126
-230,2015-10-19,Larry Mcnamara,70,0,UnEmployed,Emergence_Expenses,3295,3540
-231,2024-11-27,Raye Baker,59,4890,Employed,Traveling,4969,3817
-232,2014-11-25,Ricky Rivas,55,0,UnEmployed,Business,5839,1172
-233,2014-05-15,Martha Andrews,57,7395,Employed,Emergence_Expenses,2511,2031
-234,2018-04-15,Myrna Huff,94,4343,Employed,Emergence_Expenses,3676,4401
-235,2015-05-23,Marcel Urankar,46,0,UnEmployed,Weddings,5297,3761
-236,2018-07-26,Stephen Campbell,39,0,UnEmployed,Traveling,5663,4902
-237,2018-08-08,Betty Hollingshead,31,2774,Employed,Traveling,3042,3432
-238,2013-03-24,Gregory Ruiz,91,6085,Employed,Traveling,4011,4360
-239,2016-08-03,Erin Foster,63,3126,Employed,Investing,1979,3230
-240,2014-08-25,Joan Berry,48,4696,Employed,Traveling,4389,3750
-241,2018-12-13,Sherry Valdez,42,0,UnEmployed,Investing,5686,4325
-242,2011-03-29,Ethel Lovell,21,0,UnEmployed,Business,8750,2662
-243,2010-11-27,Samara Barrientos,87,3352,Employed,Weddings,7853,3128
-244,2021-08-14,Doris Jones,58,3515,Employed,Weddings,9464,2510
-245,2012-01-23,Frances Hodgson,46,0,UnEmployed,Medical_Expenses,9607,3071
-246,2012-01-21,Margaret Reid,97,9060,Employed,Business,5500,4208
-247,2024-06-19,Felix Czelusniak,56,3767,Employed,Personal Use,6788,1214
-248,2024-07-21,Pauline Obrien,44,2232,Employed,Traveling,4119,4438
-249,2015-01-09,William Diller,27,7710,Employed,Medical_Expenses,4789,3423
-250,2020-03-14,Gerardo Ward,59,0,UnEmployed,Business,1818,4350
-251,2017-06-22,Albert Carbone,72,5753,Employed,Emergence_Expenses,9919,4860
-252,2017-04-27,Michael Collins,84,8323,Employed,Personal Use,2067,3582
-253,2011-02-20,Charles Becker,32,3340,Employed,Investing,2799,1459
-254,2018-04-08,Albert Anaya,29,0,UnEmployed,Traveling,8886,2733
-255,2020-09-30,Patricia Osborn,90,5473,Employed,Business,8853,1620
-256,2022-09-08,Daniel Williams,63,0,UnEmployed,Emergence_Expenses,2141,670
-257,2016-02-16,Willie Locke,73,7258,Employed,Weddings,3917,609
-258,2014-04-08,Matthew Smith,23,7224,Employed,Personal Use,5207,671
-259,2016-07-01,Monica Armstrong,63,0,UnEmployed,Emergence_Expenses,931,2574
-260,2014-07-22,Amy Goodridge,66,0,UnEmployed,Education,9511,4336
-261,2021-07-05,Walter Ellis,60,0,UnEmployed,Emergence_Expenses,2677,1063
-262,2024-10-06,Larry Carr,78,0,UnEmployed,Business,1035,2218
-263,2019-10-14,Linda Craddock,33,7661,Employed,Weddings,7731,3198
-264,2020-11-23,David Knight,22,0,UnEmployed,Personal Use,7201,4187
-265,2015-03-20,Kelly Lopes,63,0,UnEmployed,Business,6858,4591
-266,2012-03-06,Pennie Fletcher,36,9825,Employed,Traveling,8416,1930
-267,2023-08-03,Marie Smith,92,0,UnEmployed,Emergence_Expenses,7837,2353
-268,2020-12-28,Robbie Huntsinger,25,0,UnEmployed,Traveling,4782,4304
-269,2023-05-28,Melanie Bulat,95,0,UnEmployed,Medical_Expenses,1973,4426
-270,2022-05-27,Philip Clifford,73,0,UnEmployed,Weddings,3227,1304
-271,2013-10-26,Christopher Kirksey,35,0,UnEmployed,Education,2804,3025
-272,2023-07-22,Donna Anderson,88,9021,Employed,Traveling,4293,4150
-273,2018-10-03,Clifford Long,76,9282,Employed,Emergence_Expenses,8647,2334
-274,2023-06-16,Jordon Dinkel,22,0,UnEmployed,Traveling,2716,2655
-275,2014-04-05,Larry Marshall,99,0,UnEmployed,Traveling,1770,4100
-276,2011-05-23,Jimmy Walter,23,3741,Employed,Medical_Expenses,7428,1664
-277,2018-03-15,Bryan Campbell,23,3392,Employed,Weddings,5740,4482
-278,2011-06-06,Amy Clifford,66,5808,Employed,Investing,9134,551
-279,2023-11-05,Marcus Osborne,54,0,UnEmployed,Business,7637,4353
-280,2023-12-27,Raymond Daniels,81,0,UnEmployed,Emergence_Expenses,8981,3852
-281,2015-12-09,Forrest Engel,98,0,UnEmployed,Education,588,3498
-282,2018-04-14,Hisako Hatter,90,5393,Employed,Weddings,1308,4704
-283,2018-05-20,Franklyn Pickup,86,0,UnEmployed,Business,4176,4442
-284,2022-10-04,Chris Placide,60,3423,Employed,Emergence_Expenses,9258,690
-285,2012-10-28,Adrian Hoffman,72,0,UnEmployed,Weddings,3604,1957
-286,2019-06-26,Wade Remis,50,3545,Employed,Medical_Expenses,9995,3911
-287,2011-02-20,Henry Richardson,65,2614,Employed,Education,5791,2815
-288,2014-04-20,Joseph Willoughby,81,0,UnEmployed,Weddings,1250,1982
-289,2014-05-31,Edward Smith,81,9209,Employed,Business,6959,2587
-290,2012-03-11,Lisa Heredia,43,7825,Employed,Personal Use,4382,1114
-291,2016-09-03,James Hatch,58,2158,Employed,Investing,1441,2418
-292,2010-04-24,Andrea Garcia,65,2718,Employed,Traveling,5667,901
-293,2021-07-02,Susan Young,54,0,UnEmployed,Investing,2488,4958
-294,2022-08-12,Christopher Straight,41,4521,Employed,Business,4436,2428
-295,2024-03-05,Angie Fisher,50,5667,Employed,Medical_Expenses,3979,671
-296,2013-11-12,Rosa Morin,81,0,UnEmployed,Business,1898,1492
-297,2019-07-09,Sharon Mcguinn,55,0,UnEmployed,Emergence_Expenses,1433,4971
-298,2016-12-24,William Harlin,72,3038,Employed,Traveling,1069,3468
-299,2017-08-01,Stephanie Harrison,97,5893,Employed,Traveling,3531,3714
-300,2022-07-06,Joann Greenwell,91,2746,Employed,Traveling,6778,1341
-301,2018-03-04,George Teegarden,68,6343,Employed,Traveling,8566,885
-302,2014-06-08,Kevin Julian,87,5390,Employed,Personal Use,2545,2815
-303,2023-06-07,Amanda Toney,72,7578,Employed,Emergence_Expenses,5235,2855
-304,2012-05-11,Derek Salgado,34,3909,Employed,Weddings,1473,4802
-305,2015-12-14,Mary Christian,89,4090,Employed,Education,3617,3704
-306,2019-08-24,James Ziebarth,81,0,UnEmployed,Emergence_Expenses,4908,2953
-307,2015-07-06,Todd Jones,28,0,UnEmployed,Medical_Expenses,3586,2493
-308,2018-02-13,Brian Casper,75,9934,Employed,Medical_Expenses,2263,1695
-309,2012-04-21,Walter Fields,97,5915,Employed,Traveling,6873,4568
-310,2017-11-20,Beatrice Lynn,44,0,UnEmployed,Traveling,7013,1951
-311,2021-05-09,Michael Cutrona,30,6101,Employed,Education,7716,2932
-312,2022-10-01,Cesar Quinonez,65,7800,Employed,Business,3990,2600
-313,2023-03-29,Paul Dennis,53,0,UnEmployed,Business,9404,4265
-314,2019-08-17,Derrick Bullock,38,0,UnEmployed,Medical_Expenses,583,3957
-315,2021-05-24,Jean Smith,95,4828,Employed,Emergence_Expenses,9880,3426
-316,2022-10-24,Kathyrn Wilbon,41,0,UnEmployed,Weddings,6852,4419
-317,2020-09-22,Andrew Willis,35,3733,Employed,Medical_Expenses,4949,3163
-318,2022-03-08,Lucy Wyatt,35,7797,Employed,Investing,4327,2186
-319,2023-01-28,Floyd Wilkerson,38,4687,Employed,Education,6884,3298
-320,2018-10-24,John Marano,25,3014,Employed,Education,9146,1917
-321,2021-12-21,Janet Feucht,44,4528,Employed,Weddings,2212,866
-322,2016-11-09,Faye Nunez,76,4623,Employed,Medical_Expenses,7914,705
-323,2013-07-20,Dorian Burhans,95,5145,Employed,Emergence_Expenses,8198,2964
-324,2021-02-09,Ginger Jenkins,89,0,UnEmployed,Business,7064,1616
-325,2018-03-31,Jesse Lococo,86,4583,Employed,Personal Use,4876,2528
-326,2024-02-16,Carla Blenden,44,0,UnEmployed,Business,2015,3335
-327,2024-10-06,Edward Abramson,43,0,UnEmployed,Business,8314,598
-328,2017-07-05,James Alexander,77,3943,Employed,Personal Use,6929,1668
-329,2017-07-02,Mary Bergren,26,9592,Employed,Personal Use,889,3725
-330,2024-06-21,Patricia Adams,48,2668,Employed,Emergence_Expenses,763,3537
-331,2010-08-15,Bradly Potthoff,54,0,UnEmployed,Emergence_Expenses,8753,3680
-332,2019-09-28,Janet Gomez,79,0,UnEmployed,Weddings,3637,3633
-333,2024-04-25,April Bell,97,0,UnEmployed,Investing,5281,765
-334,2012-07-09,Dustin Stone,50,0,UnEmployed,Medical_Expenses,1338,4774
-335,2013-03-01,Vera Vasquez,99,9707,Employed,Traveling,3430,1949
-336,2020-11-18,Jessie Howell,69,0,UnEmployed,Personal Use,6663,1035
-337,2022-05-25,Joyce Adams,85,5092,Employed,Investing,5077,3226
-338,2014-10-01,William Wilson,48,0,UnEmployed,Investing,4723,669
-339,2016-10-10,Lori Wentworth,35,7178,Employed,Weddings,5830,966
-340,2013-04-23,Yvette Kling,23,0,UnEmployed,Weddings,7810,3545
-341,2012-11-17,Roger Smith,49,5013,Employed,Personal Use,4405,1212
-342,2012-05-29,Robert Prickett,72,4751,Employed,Traveling,6432,2759
-343,2024-10-09,Phillip Jimenes,71,6711,Employed,Personal Use,7964,2534
-344,2023-05-14,Martin Russell,53,0,UnEmployed,Traveling,5580,2409
-345,2020-03-12,Peter Hawkins,42,0,UnEmployed,Emergence_Expenses,961,1577
-346,2017-04-21,Richard Lombard,59,6847,Employed,Investing,5094,3004
-347,2016-11-23,Derrick Watson,88,0,UnEmployed,Medical_Expenses,1931,4065
-348,2010-07-19,Arnold Ojeda,35,3019,Employed,Weddings,2599,4768
-349,2014-10-12,Samuel Hunter,53,0,UnEmployed,Education,6614,3341
-350,2020-08-29,Dixie Scott,86,0,UnEmployed,Business,2836,933
-351,2022-04-17,Jason Cosey,60,0,UnEmployed,Business,9115,1420
-352,2017-12-05,John White,31,0,UnEmployed,Medical_Expenses,5139,2415
-353,2017-02-09,Kimberly Linnane,25,0,UnEmployed,Personal Use,1873,1165
-354,2024-07-23,Ethel Ayers,89,0,UnEmployed,Investing,5197,4181
-355,2016-01-22,Charles Brenna,66,7872,Employed,Business,1690,760
-356,2018-05-15,Ashely Ali,30,5178,Employed,Business,1621,3406
-357,2018-03-19,Jack Dupree,97,0,UnEmployed,Weddings,3661,513
-358,2022-09-08,Ronda Sturrock,63,0,UnEmployed,Medical_Expenses,8983,2766
-359,2015-02-28,Matthew Edwards,89,8376,Employed,Emergence_Expenses,5160,965
-360,2015-03-19,Jeffrey Neal,85,0,UnEmployed,Personal Use,5324,1235
-361,2017-12-01,Todd Munger,48,0,UnEmployed,Medical_Expenses,6460,2336
-362,2010-09-19,Diane Hurdle,36,0,UnEmployed,Medical_Expenses,7901,643
-363,2019-12-07,Roy Kurtz,62,0,UnEmployed,Business,8903,2369
-364,2014-06-29,Daniel Hunter,76,6673,Employed,Traveling,6500,1285
-365,2022-11-22,Melissa Graves,66,0,UnEmployed,Education,2462,1330
-366,2013-06-14,Lolita Cassady,38,5750,Employed,Education,2556,3899
-367,2012-11-27,Marylin Vaught,38,6754,Employed,Business,1466,3452
-368,2021-12-23,Andrea Hamel,28,7447,Employed,Personal Use,2593,4000
-369,2022-05-22,James Lackey,84,5966,Employed,Education,3436,974
-370,2013-02-02,Ileana Anderson,53,0,UnEmployed,Education,6721,1347
-371,2012-03-01,Jack Mobley,76,0,UnEmployed,Emergence_Expenses,3970,717
-372,2023-08-25,Susan Ouzts,48,6508,Employed,Personal Use,4775,4396
-373,2012-12-15,William Collier,87,0,UnEmployed,Personal Use,7096,4232
-374,2017-02-16,Frances Coleman,84,0,UnEmployed,Education,6013,655
-375,2018-07-30,Michael Layel,44,0,UnEmployed,Education,6383,2498
-376,2023-09-14,Tom Abramek,52,0,UnEmployed,Business,2623,4646
-377,2024-01-02,Richard Wurth,70,9270,Employed,Personal Use,1609,3260
-378,2023-04-09,Richard Black,64,0,UnEmployed,Personal Use,8656,880
-379,2014-03-24,William Ferrari,60,5183,Employed,Medical_Expenses,4332,4577
-380,2023-10-19,Eric Wallace,66,4153,Employed,Investing,7255,3485
-381,2012-06-02,Natalie Lee,76,3047,Employed,Business,1202,943
-382,2019-07-24,Ann Fitch,26,0,UnEmployed,Investing,3940,4806
-383,2022-05-27,Shannon Ross,41,6013,Employed,Education,6596,1622
-384,2020-01-04,Jeffrey Crawford,80,0,UnEmployed,Weddings,9570,3991
-385,2014-11-26,Elsie Cable,76,4665,Employed,Personal Use,5054,2835
-386,2017-06-29,Harriett Rose,94,0,UnEmployed,Business,3614,1124
-387,2019-05-28,Beverly Newsome,35,9986,Employed,Traveling,4608,4354
-388,2020-05-27,Jessie Young,98,7367,Employed,Personal Use,2179,3451
-389,2018-03-25,Christina Lacy,69,5604,Employed,Education,2275,3579
-390,2017-09-20,Duane Brown,54,0,UnEmployed,Education,4027,3602
-391,2023-08-19,Joshua Gray,22,0,UnEmployed,Personal Use,4391,1888
-392,2015-07-11,Randall Matten,26,0,UnEmployed,Investing,8193,1214
-393,2022-01-22,Faith Worley,31,8621,Employed,Emergence_Expenses,3402,4426
-394,2010-10-12,Daniel Martinez,72,2185,Employed,Emergence_Expenses,9833,2057
-395,2018-09-13,Emilia Johnson,82,6161,Employed,Medical_Expenses,3159,2179
-396,2014-07-01,Deborah Gregory,85,0,UnEmployed,Personal Use,4249,4355
-397,2017-10-09,Karen Hartley,21,0,UnEmployed,Investing,1700,1387
-398,2016-06-17,Raymond Lemon,52,0,UnEmployed,Medical_Expenses,2359,1347
-399,2016-09-10,Billie Lewis,36,4994,Employed,Emergence_Expenses,9055,4003
-400,2015-08-26,Karl Harmon,39,0,UnEmployed,Personal Use,5293,4868
-401,2010-09-30,Shelia Augustine,71,3778,Employed,Medical_Expenses,8429,2060
-402,2016-03-24,Dustin Jacobson,45,0,UnEmployed,Investing,1536,1831
-403,2014-10-01,Brian Parker,92,0,UnEmployed,Education,8500,3243
-404,2010-02-03,Timothy Carpentieri,58,6522,Employed,Emergence_Expenses,8404,3618
-405,2015-07-06,Annie Dutcher,88,6118,Employed,Medical_Expenses,4367,1494
-406,2021-06-02,Richard Jackson,88,0,UnEmployed,Education,2079,4734
-407,2014-03-09,Brenda Mccusker,34,4462,Employed,Investing,4506,2147
-408,2023-07-18,Charles Anderson,73,9061,Employed,Investing,1594,4843
-409,2016-08-08,Forrest Payne,81,2187,Employed,Weddings,4490,4641
-410,2011-03-27,Gloria Mcgruder,74,0,UnEmployed,Medical_Expenses,4390,1134
-411,2015-10-09,Carol Fleniken,89,0,UnEmployed,Education,6710,3518
-412,2017-09-08,Matthew Gamble,54,0,UnEmployed,Personal Use,1394,506
-413,2012-12-12,Charles Bianco,28,8554,Employed,Traveling,7332,3878
-414,2021-03-02,William Crane,96,0,UnEmployed,Emergence_Expenses,4107,1072
-415,2014-03-27,Monika Hartzell,71,0,UnEmployed,Weddings,2102,4198
-416,2017-01-11,Linda Gray,25,0,UnEmployed,Weddings,8902,1561
-417,2012-11-03,Miquel Bynum,65,0,UnEmployed,Traveling,6028,3325
-418,2014-06-28,Susan Maye,91,0,UnEmployed,Investing,5186,4236
-419,2012-10-30,Brian Thomas,65,3966,Employed,Education,8833,3936
-420,2013-06-17,Glenn Fultz,38,0,UnEmployed,Education,7077,2863
-421,2010-08-31,Pamela Johnston,26,0,UnEmployed,Investing,540,2391
-422,2018-03-02,Malcolm Martin,35,6756,Employed,Business,9400,2085
-423,2022-08-23,Deidre Miller,31,0,UnEmployed,Weddings,2064,2700
-424,2013-02-13,Hollis Hubert,68,0,UnEmployed,Medical_Expenses,4826,3394
-425,2017-03-09,Karen Martin,94,5310,Employed,Personal Use,683,4264
-426,2022-10-17,Katie Maxwell,31,0,UnEmployed,Medical_Expenses,9373,2647
-427,2015-01-16,Helen Stewart,78,9379,Employed,Traveling,3792,1395
-428,2011-11-28,Rhonda Guerrero,54,2848,Employed,Traveling,9128,3550
-429,2013-12-02,Joyce Schwartz,99,3724,Employed,Personal Use,3412,4342
-430,2019-05-17,Cynthia Weitkamp,71,7634,Employed,Medical_Expenses,4085,2115
-431,2013-09-23,Robert Bowers,28,0,UnEmployed,Weddings,9983,3895
-432,2022-10-24,Mary Gilbert,24,8143,Employed,Personal Use,3713,3377
-433,2019-02-28,Bruce Pike,30,7159,Employed,Investing,5319,2490
-434,2022-09-19,Melissa Pollard,45,0,UnEmployed,Education,2295,3018
-435,2012-10-16,Wayne Conner,91,6512,Employed,Weddings,8211,579
-436,2021-02-24,Geraldine Werner,63,0,UnEmployed,Emergence_Expenses,7253,1119
-437,2012-02-11,Bradford Fleming,90,0,UnEmployed,Business,8267,3749
-438,2019-08-28,Ruth Pelote,51,0,UnEmployed,Investing,3675,802
-439,2011-06-27,Harold Gallaway,98,6901,Employed,Business,6804,1414
-440,2021-05-24,Nancy Gladys,85,2809,Employed,Personal Use,5805,1023
-441,2022-06-09,Erika Mankins,37,6904,Employed,Investing,5994,3046
-442,2017-03-05,Joann Sierra,66,7888,Employed,Business,7104,2476
-443,2011-05-04,Toni Channey,86,0,UnEmployed,Traveling,3427,2634
-444,2010-10-25,Darren Lampley,31,8179,Employed,Education,3936,4776
-445,2018-11-03,David Nelson,52,7817,Employed,Business,5731,2679
-446,2020-10-29,Judith Hunter,61,6669,Employed,Emergence_Expenses,2642,1132
-447,2019-05-23,Anthony White,30,0,UnEmployed,Medical_Expenses,3496,4900
-448,2013-05-25,Brent Britten,88,3918,Employed,Traveling,3412,590
-449,2018-05-14,Virginia Murray,83,9255,Employed,Emergence_Expenses,1186,3871
-450,2021-03-19,Carol Cambell,59,0,UnEmployed,Education,1880,3137
-451,2019-05-09,Charles Arnold,21,0,UnEmployed,Traveling,7401,2021
-452,2015-09-17,Ione Hailey,59,5088,Employed,Personal Use,2006,1386
-453,2010-12-30,Paul Aldrich,67,0,UnEmployed,Business,8567,1573
-454,2022-01-14,Johnie Jordon,45,0,UnEmployed,Medical_Expenses,1613,4305
-455,2011-07-28,Deborah Smith,66,0,UnEmployed,Personal Use,2964,3472
-456,2016-11-01,Charles Wallace,28,4812,Employed,Traveling,6610,1983
-457,2013-02-14,Elizabeth Mckee,85,3970,Employed,Investing,1740,1855
-458,2019-09-05,William Henderson,91,0,UnEmployed,Weddings,6392,4331
-459,2016-01-09,Ann Lerch,54,9058,Employed,Traveling,1342,3444
-460,2011-10-29,Thomas Meachum,85,0,UnEmployed,Education,8959,3872
-461,2018-12-12,Mable Crosley,26,0,UnEmployed,Weddings,5591,590
-462,2016-02-11,Chris Montijo,78,0,UnEmployed,Personal Use,1759,2311
-463,2021-06-23,Thomas Husband,65,3926,Employed,Business,928,805
-464,2023-07-08,Timothy Keller,86,9452,Employed,Traveling,2474,607
-465,2024-08-20,Tammy Holt,21,0,UnEmployed,Personal Use,532,4742
-466,2020-05-03,Lillie Roberts,45,0,UnEmployed,Personal Use,5042,610
-467,2021-08-02,Joseph Bruno,41,0,UnEmployed,Emergence_Expenses,3046,2584
-468,2012-03-22,Charlotte Gunnell,36,4771,Employed,Business,9218,2483
-469,2022-04-22,Melanie Sebastian,46,5105,Employed,Emergence_Expenses,4317,646
-470,2014-03-17,Charles Lake,47,0,UnEmployed,Education,4598,3204
-471,2018-06-21,William Martinez,22,9961,Employed,Emergence_Expenses,4889,2584
-472,2013-02-28,Sue Sampson,76,7411,Employed,Education,9423,2189
-473,2020-09-07,Romana Ashpole,90,0,UnEmployed,Business,6239,2891
-474,2012-01-31,Virgie Hamson,39,0,UnEmployed,Traveling,7413,3491
-475,2019-02-01,Leon Robinson,47,0,UnEmployed,Emergence_Expenses,5815,1375
-476,2015-02-14,Maria Figueroa,43,0,UnEmployed,Traveling,4887,2872
-477,2018-11-19,Richard Harris,47,0,UnEmployed,Personal Use,5497,1316
-478,2014-07-29,Pedro Barker,93,0,UnEmployed,Medical_Expenses,7804,1802
-479,2023-09-04,William Goggin,48,5329,Employed,Investing,7089,1116
-480,2021-09-20,Marc Parrish,58,5733,Employed,Medical_Expenses,6627,1633
-481,2022-12-07,Georgia Mitchell,39,0,UnEmployed,Weddings,7688,2720
-482,2023-05-13,Nicholas Fonville,78,7975,Employed,Medical_Expenses,8202,2176
-483,2014-05-09,Jennifer Hayes,57,2778,Employed,Emergence_Expenses,4962,3785
-484,2022-08-07,James Schweitzer,70,0,UnEmployed,Medical_Expenses,7607,3357
-485,2012-11-21,Courtney Wright,55,4987,Employed,Medical_Expenses,7668,4784
-486,2016-08-10,Ronda Parker,22,0,UnEmployed,Business,8475,1866
-487,2019-10-20,George Propst,49,9110,Employed,Education,2512,4509
-488,2018-11-28,Elvira Madrigal,46,7601,Employed,Traveling,766,4433
-489,2012-06-25,Latasha Willey,69,0,UnEmployed,Business,6045,4811
-490,2024-01-23,Larry Mellon,59,3764,Employed,Traveling,985,1336
-491,2023-01-27,Nicholas Matos,58,0,UnEmployed,Business,9537,4688
-492,2023-01-27,Nancy Young,30,8241,Employed,Personal Use,8533,3378
-493,2024-09-07,Rita Dufrene,56,0,UnEmployed,Traveling,1331,1489
-494,2019-08-15,Barbara Schuetze,85,0,UnEmployed,Emergence_Expenses,501,3967
-495,2019-08-16,Danielle Wyke,54,6989,Employed,Emergence_Expenses,5990,942
-496,2010-11-23,Joseph Highley,41,0,UnEmployed,Medical_Expenses,7951,4363
-497,2017-07-11,David Farris,81,6951,Employed,Investing,1747,4537
-498,2011-10-17,Robert Denis,50,0,UnEmployed,Weddings,7679,2684
-499,2016-05-09,Jonathan Blake,51,0,UnEmployed,Weddings,6585,3885
-500,2018-07-18,Michael Clingerman,51,8329,Employed,Investing,3935,1343
-501,2021-01-30,Ryan Julien,84,9703,Employed,Weddings,1374,2477
-502,2023-07-31,Eric Hudman,83,0,UnEmployed,Traveling,5692,3042
-503,2016-01-02,Marion Price,72,0,UnEmployed,Business,7330,3033
-504,2023-06-09,Jerome Jefferson,36,4368,Employed,Investing,9136,4381
-505,2018-01-19,John Lawton,64,0,UnEmployed,Business,7241,3121
-506,2013-01-19,Robert Bush,72,0,UnEmployed,Traveling,8860,4498
-507,2013-02-04,Chris Ingram,27,5997,Employed,Education,1435,3947
-508,2013-04-14,Philip Fernandez,77,8141,Employed,Investing,7104,3418
-509,2013-03-12,Susan Mcqueeney,95,0,UnEmployed,Investing,2977,4850
-510,2015-02-11,Donna Gilbert,77,0,UnEmployed,Investing,5508,1976
-511,2019-06-20,Allen Adams,95,4078,Employed,Investing,899,3402
-512,2019-04-07,Donna Tribbett,36,6026,Employed,Emergence_Expenses,2338,3343
-513,2019-08-13,Katelyn Johnson,22,7682,Employed,Investing,6822,890
-514,2016-07-11,Carlos Small,59,0,UnEmployed,Personal Use,9848,2861
-515,2023-06-01,Marvin Jeune,43,2725,Employed,Emergence_Expenses,817,3012
-516,2020-05-25,Marsha Gess,60,0,UnEmployed,Education,8709,3243
-517,2011-11-05,Joetta Laguire,95,6932,Employed,Emergence_Expenses,1161,1083
-518,2019-03-19,Eric Camacho,42,0,UnEmployed,Investing,4124,2570
-519,2010-10-28,Debra Davis,75,8479,Employed,Investing,9443,2166
-520,2010-03-27,Joseph Threet,32,0,UnEmployed,Investing,7271,3212
-521,2013-02-17,Grace Heineman,32,0,UnEmployed,Business,1611,1156
-522,2017-04-06,John Montenegro,70,4489,Employed,Personal Use,6649,1484
-523,2023-07-31,Albert Borders,83,4346,Employed,Business,8160,1681
-524,2013-08-30,William Belles,62,0,UnEmployed,Personal Use,2221,2354
-525,2016-02-21,Charles Jones,84,0,UnEmployed,Traveling,5204,3894
-526,2023-10-22,Nancy Aguirre,44,7238,Employed,Medical_Expenses,2101,667
-527,2017-02-12,Doreen Salviejo,28,0,UnEmployed,Personal Use,1744,3026
-528,2019-06-16,Loretta Gonzalez,53,0,UnEmployed,Business,3401,4194
-529,2018-12-26,Rex Romine,34,6906,Employed,Education,671,1498
-530,2018-03-05,Linda Berczel,24,9984,Employed,Education,4952,4166
-531,2023-04-25,Eva Dear,93,4583,Employed,Medical_Expenses,3082,4013
-532,2024-11-17,Kenneth Weston,88,2114,Employed,Investing,6981,2344
-533,2016-09-16,Destiny Shaw,64,5304,Employed,Traveling,2584,3657
-534,2021-02-08,Hong Haga,89,8802,Employed,Medical_Expenses,9242,4574
-535,2020-06-05,Steven Roden,94,6254,Employed,Traveling,1212,4361
-536,2017-07-25,Allan Denny,24,4340,Employed,Medical_Expenses,5753,1319
-537,2021-10-10,Constance Hisaw,90,6348,Employed,Business,4937,1976
-538,2011-01-02,Jeramy Moyer,28,8201,Employed,Business,7302,3554
-539,2023-08-03,Ida Robinson,59,4505,Employed,Traveling,4476,4795
-540,2014-07-23,Peggy Radcliff,28,6025,Employed,Emergence_Expenses,6494,4559
-541,2013-10-22,Edward Ware,85,9141,Employed,Weddings,1836,735
-542,2010-04-16,Kevin Scott,40,3371,Employed,Traveling,5177,4390
-543,2011-04-25,John Farney,47,0,UnEmployed,Business,9879,4095
-544,2023-05-27,James Gerber,77,0,UnEmployed,Personal Use,4816,1454
-545,2024-11-30,Timothy Ocasio,23,0,UnEmployed,Traveling,9692,2943
-546,2014-05-18,Violet Jones,93,0,UnEmployed,Weddings,1745,2843
-547,2012-01-01,Annie Massa,50,5013,Employed,Medical_Expenses,9291,4884
-548,2016-04-23,Trisha Delarosa,22,0,UnEmployed,Education,2414,3936
-549,2024-10-08,Sherry Stemp,32,0,UnEmployed,Education,4786,2465
-550,2023-07-18,Marjorie Kelso,80,0,UnEmployed,Education,2373,4443
-551,2011-10-20,Doris Lehman,21,0,UnEmployed,Personal Use,2712,4098
-552,2023-09-05,John West,86,5756,Employed,Education,8493,2938
-553,2021-03-15,John Williams,67,4269,Employed,Education,9167,4332
-554,2010-12-19,Katina Williams,91,0,UnEmployed,Investing,3775,561
-555,2022-12-20,Casey Burrows,71,6439,Employed,Traveling,4323,1150
-556,2018-08-14,Susan Clark,32,0,UnEmployed,Personal Use,4370,2984
-557,2024-01-18,Lamar Sequra,71,6093,Employed,Weddings,8169,524
-558,2011-04-01,Christa Jones,73,7527,Employed,Medical_Expenses,1717,1453
-559,2023-08-14,Chelsea Durham,77,7089,Employed,Traveling,8217,844
-560,2024-03-16,Donald Arch,59,0,UnEmployed,Medical_Expenses,6440,4436
-561,2010-03-16,Joyce Franciscus,94,9292,Employed,Investing,8394,3467
-562,2011-02-18,Fletcher Esparza,71,0,UnEmployed,Traveling,3594,516
-563,2014-01-07,Larry Doe,61,4289,Employed,Traveling,5014,1587
-564,2020-06-05,Daniel Cuccia,85,0,UnEmployed,Business,5226,901
-565,2012-06-18,Joan Dobson,50,3629,Employed,Investing,4465,2508
-566,2019-05-11,Terry Smith,49,2388,Employed,Emergence_Expenses,8192,4737
-567,2017-11-29,Gina Palmer,43,0,UnEmployed,Education,6237,1702
-568,2010-03-08,Rosa King,49,4479,Employed,Personal Use,9852,1539
-569,2016-01-09,Robert Ramon,45,0,UnEmployed,Personal Use,1216,2800
-570,2011-08-19,Shane Gibbs,45,0,UnEmployed,Weddings,1459,1704
-571,2016-04-08,Perry Blow,42,9123,Employed,Business,1729,2528
-572,2018-11-30,Keith Downing,48,7906,Employed,Medical_Expenses,9959,1964
-573,2018-05-20,Carl Schram,59,0,UnEmployed,Emergence_Expenses,4830,2292
-574,2016-03-18,Ann Sandoval,65,8661,Employed,Business,7284,3005
-575,2024-07-02,Charmaine Holden,67,0,UnEmployed,Traveling,6246,4659
-576,2013-10-18,Jose Yamashiro,40,2683,Employed,Medical_Expenses,7211,1724
-577,2011-12-14,Pilar Smith,84,0,UnEmployed,Emergence_Expenses,5682,4074
-578,2017-11-11,Thelma Letson,77,0,UnEmployed,Traveling,6436,573
-579,2012-05-25,Walter Pollick,88,2219,Employed,Medical_Expenses,4297,1350
-580,2015-06-19,Carolyn Kess,93,0,UnEmployed,Business,4473,3046
-581,2022-11-29,Scott Hamlin,30,0,UnEmployed,Personal Use,7320,3286
-582,2010-10-31,Joann Perez,71,6495,Employed,Investing,3226,4175
-583,2011-06-03,Amanda Funk,41,9970,Employed,Education,3889,4641
-584,2012-07-28,Nancy Cambell,27,0,UnEmployed,Investing,9286,3456
-585,2017-08-10,Mary Yeomans,87,0,UnEmployed,Traveling,7075,4165
-586,2010-11-11,Starla Bush,78,2422,Employed,Personal Use,3095,4578
-587,2020-08-12,Sam Dingle,82,7386,Employed,Traveling,5611,3631
-588,2014-12-26,Brandi Snyder,71,0,UnEmployed,Weddings,7247,2275
-589,2021-01-01,Wanda Hernandez,72,0,UnEmployed,Emergence_Expenses,4120,3956
-590,2023-05-17,John Allen,67,4018,Employed,Traveling,614,3214
-591,2017-06-11,Frank Munoz,70,7800,Employed,Emergence_Expenses,2794,4195
-592,2021-01-19,Nicol Montoya,96,0,UnEmployed,Personal Use,6143,665
-593,2017-04-04,Shirley Socha,76,8324,Employed,Business,9672,1950
-594,2014-05-20,Amy Rajan,21,0,UnEmployed,Investing,675,587
-595,2015-05-17,Christian Bascomb,56,7895,Employed,Emergence_Expenses,3308,4304
-596,2018-01-03,Bennie Strange,26,0,UnEmployed,Medical_Expenses,4176,1510
-597,2018-01-14,Dorothy Mesich,65,2295,Employed,Personal Use,3020,1545
-598,2013-10-25,Karen Velasco,29,6726,Employed,Investing,6985,4968
-599,2020-03-17,Dorothy Davis,87,0,UnEmployed,Business,9437,1465
-600,2016-08-08,Mildred Bates,29,8470,Employed,Emergence_Expenses,1523,2775
-601,2011-02-01,Rachel Turner,35,0,UnEmployed,Investing,4901,3655
-602,2023-05-25,Frank Torres,95,0,UnEmployed,Emergence_Expenses,2306,769
-603,2019-04-16,Pauline Gardner,52,0,UnEmployed,Traveling,3389,3051
-604,2013-09-07,Ada Webre,46,6250,Employed,Weddings,6892,2600
-605,2019-10-12,Robert Allen,95,5572,Employed,Medical_Expenses,3918,4575
-606,2021-02-14,Rebecca Loesch,22,6464,Employed,Weddings,7191,2448
-607,2012-09-07,David Clark,39,0,UnEmployed,Traveling,9461,3277
-608,2017-02-06,Joyce Whitaker,63,4011,Employed,Education,8150,4703
-609,2019-08-01,Raymond Sabb,73,0,UnEmployed,Personal Use,7073,4029
-610,2011-01-27,Jason Texeira,63,6540,Employed,Weddings,7805,3109
-611,2022-09-14,Kerry Seese,76,0,UnEmployed,Investing,9205,2419
-612,2011-07-27,Gayle Pinkerton,68,3686,Employed,Personal Use,3550,3477
-613,2024-07-14,Walter Hannah,72,4533,Employed,Investing,6835,4098
-614,2022-02-06,Mabel Mcquistion,60,8890,Employed,Weddings,6701,4096
-615,2023-06-06,Consuelo Aaberg,45,0,UnEmployed,Medical_Expenses,1640,3109
-616,2024-03-25,Matthew Phung,43,0,UnEmployed,Personal Use,1543,1527
-617,2020-10-30,George Ludwig,26,6784,Employed,Medical_Expenses,2480,4418
-618,2020-06-29,Eric Clark,59,0,UnEmployed,Weddings,8924,2833
-619,2023-08-18,Kenneth Winkles,69,0,UnEmployed,Education,8581,4139
-620,2023-06-11,Lloyd Phillips,53,0,UnEmployed,Personal Use,6629,2508
-621,2023-01-26,Emmett Bonney,41,0,UnEmployed,Investing,9001,4712
-622,2011-02-18,Damion Burnett,99,0,UnEmployed,Business,2262,4460
-623,2021-11-07,Virginia Gutierrez,91,0,UnEmployed,Personal Use,5186,1359
-624,2018-01-29,Grace Spurlock,73,0,UnEmployed,Emergence_Expenses,1803,920
-625,2010-01-26,Ann Keller,57,5450,Employed,Weddings,3069,3316
-626,2010-02-27,Lloyd Johnson,85,0,UnEmployed,Traveling,8369,2680
-627,2017-02-16,Joan Owens,59,0,UnEmployed,Business,5949,2849
-628,2011-06-07,Linda Davis,51,0,UnEmployed,Education,8645,2118
-629,2020-12-26,Lois Morehouse,53,0,UnEmployed,Emergence_Expenses,4899,501
-630,2022-11-05,Lynn Cates,34,0,UnEmployed,Emergence_Expenses,3516,3684
-631,2015-06-13,Stephanie Hamm,93,3176,Employed,Emergence_Expenses,3593,909
-632,2019-05-20,Sandra Rasmussen,70,9932,Employed,Personal Use,5942,926
-633,2012-09-27,Alphonse Douglas,46,6211,Employed,Investing,1056,4191
-634,2021-12-12,John Vanhouten,21,2067,Employed,Emergence_Expenses,7842,870
-635,2018-02-27,Edgar Davis,77,2799,Employed,Education,1512,3180
-636,2012-08-20,Alesia Justice,60,8738,Employed,Personal Use,5178,524
-637,2021-05-04,Luisa Trombly,71,0,UnEmployed,Medical_Expenses,1876,3626
-638,2014-11-30,Sandra Rieck,44,0,UnEmployed,Investing,8103,4138
-639,2023-02-22,James Vergari,83,0,UnEmployed,Education,8437,1263
-640,2010-09-04,Jermaine Rowe,76,0,UnEmployed,Emergence_Expenses,5627,1647
-641,2010-06-01,Jose Matney,78,3440,Employed,Investing,1670,1822
-642,2012-05-22,Gary Moore,98,0,UnEmployed,Medical_Expenses,5173,3392
-643,2013-03-04,Joyce Mccorkle,74,0,UnEmployed,Traveling,7957,1372
-644,2010-07-05,Jay Jenks,32,0,UnEmployed,Medical_Expenses,3864,1132
-645,2013-12-06,Greg Madden,88,5107,Employed,Education,1172,2236
-646,2018-05-14,Marcella Richard,79,0,UnEmployed,Investing,6526,3280
-647,2014-08-01,James Lara,82,0,UnEmployed,Investing,4779,1262
-648,2010-06-05,William Ludgate,42,8627,Employed,Traveling,5172,4075
-649,2020-01-04,Janice Porter,41,4470,Employed,Emergence_Expenses,3064,4399
-650,2015-05-13,Darline Vanhoutte,74,0,UnEmployed,Medical_Expenses,4495,2929
-651,2011-06-04,Dennis Broadwell,35,3900,Employed,Education,2373,2637
-652,2020-03-24,Ronald Fosberg,74,0,UnEmployed,Personal Use,2993,4406
-653,2010-08-19,Gary Chan,70,0,UnEmployed,Medical_Expenses,3035,1290
-654,2010-08-10,Christin Mcgowen,73,0,UnEmployed,Weddings,9345,4703
-655,2016-09-20,Kim Mueller,51,0,UnEmployed,Education,3233,4872
-656,2019-12-22,Calvin Guth,47,7545,Employed,Education,1504,2081
-657,2016-10-15,Darrell Rumley,76,5399,Employed,Emergence_Expenses,555,1538
-658,2019-04-21,Cora Hernandez,27,2094,Employed,Business,9009,2054
-659,2011-09-11,Lionel Butler,43,4490,Employed,Weddings,8690,4340
-660,2013-09-04,Norma Gove,52,0,UnEmployed,Business,5259,4891
-661,2014-11-11,Todd Albanese,36,0,UnEmployed,Traveling,3829,532
-662,2012-12-29,Aaron Mccabe,53,0,UnEmployed,Medical_Expenses,9100,3277
-663,2016-10-24,Agnes Fox,34,7228,Employed,Emergence_Expenses,7405,4059
-664,2024-10-01,Vincenza Pena,70,0,UnEmployed,Personal Use,3778,1427
-665,2011-08-27,George Bell,38,0,UnEmployed,Emergence_Expenses,5962,758
-666,2021-11-03,Anton Constantine,94,8794,Employed,Traveling,8839,3358
-667,2011-12-14,Michael Curles,76,0,UnEmployed,Emergence_Expenses,7192,4861
-668,2014-10-09,John Williams,79,0,UnEmployed,Personal Use,2044,3707
-669,2013-11-30,Colleen Bridges,97,0,UnEmployed,Education,746,3530
-670,2014-06-28,Karen Nale,88,0,UnEmployed,Investing,8676,2146
-671,2013-02-20,Judith Romano,37,8004,Employed,Emergence_Expenses,2320,1987
-672,2012-10-02,Sue Powell,93,0,UnEmployed,Investing,3257,4284
-673,2010-05-14,Dick Moore,54,8493,Employed,Personal Use,3866,2505
-674,2021-06-30,Lois Hawkins,41,0,UnEmployed,Emergence_Expenses,618,4943
-675,2015-03-24,Angela Russell,33,0,UnEmployed,Education,3269,2390
-676,2024-03-26,Sheila Hudson,60,0,UnEmployed,Emergence_Expenses,5047,4577
-677,2010-11-03,Corey Uhrin,81,9602,Employed,Education,6408,3333
-678,2016-08-26,Julie Payne,47,9405,Employed,Traveling,5130,1132
-679,2022-08-04,Lee Ares,47,4097,Employed,Personal Use,8087,1576
-680,2017-02-16,Marion Wright,60,0,UnEmployed,Education,1995,3474
-681,2010-05-05,Martin Hastings,22,0,UnEmployed,Emergence_Expenses,5240,3940
-682,2012-07-19,Valerie Mccollough,50,0,UnEmployed,Traveling,2807,791
-683,2010-05-23,Jeanmarie Yanez,84,2868,Employed,Medical_Expenses,8272,4449
-684,2019-12-30,Daniel Sexton,45,3049,Employed,Emergence_Expenses,9217,3343
-685,2015-08-15,Susan Frederick,34,0,UnEmployed,Traveling,2123,3903
-686,2023-05-26,Jenifer Knapp,95,9977,Employed,Investing,4052,2473
-687,2015-06-07,Mark Yeiser,47,6784,Employed,Education,7892,1746
-688,2014-01-10,Daisy Wilson,30,0,UnEmployed,Investing,3181,2253
-689,2011-01-18,Edwin Rossbach,60,3653,Employed,Education,6662,3458
-690,2015-10-09,Carolyn Morrissey,93,9760,Employed,Weddings,1737,909
-691,2023-09-19,Sally Smith,53,0,UnEmployed,Weddings,5081,1917
-692,2023-03-22,Lewis Davis,41,0,UnEmployed,Traveling,8234,3048
-693,2018-10-26,Cindy Vilven,87,5685,Employed,Education,2195,4408
-694,2015-04-03,Rita Whitney,29,2933,Employed,Weddings,7743,2137
-695,2020-07-14,Diane Edmond,46,0,UnEmployed,Education,6050,892
-696,2010-11-20,Daniel Mcculler,28,0,UnEmployed,Personal Use,3606,4184
-697,2017-03-02,Suzanne Denham,60,0,UnEmployed,Weddings,3209,1682
-698,2013-08-25,Guy Brayman,60,0,UnEmployed,Investing,4558,3337
-699,2010-05-03,Joann Lee,76,0,UnEmployed,Traveling,7657,837
-700,2016-08-18,Rachel Fincham,81,0,UnEmployed,Medical_Expenses,9883,4292
-701,2022-09-09,Mark Simon,77,8150,Employed,Personal Use,4812,1227
-702,2019-04-13,Patrick Johnson,57,8896,Employed,Business,7188,4965
-703,2017-08-24,Jared Davis,73,8830,Employed,Investing,8105,2507
-704,2015-10-10,James Sibley,89,4514,Employed,Business,9894,2760
-705,2011-12-28,Jeffrey Trippel,40,0,UnEmployed,Traveling,3469,801
-706,2022-12-28,William Mcclurkin,51,0,UnEmployed,Education,5216,1604
-707,2020-07-09,Kristin Turney,56,4977,Employed,Personal Use,9002,4665
-708,2023-10-27,Omar Benn,25,3085,Employed,Personal Use,5168,2056
-709,2013-01-20,Jeanette Larson,39,0,UnEmployed,Medical_Expenses,1818,522
-710,2012-03-14,Dennis Roemmich,31,8720,Employed,Personal Use,1748,3721
-711,2015-06-14,Travis Cook,26,8536,Employed,Traveling,6866,4256
-712,2021-01-19,Victoria Kilkenny,92,5684,Employed,Traveling,8971,3170
-713,2017-04-06,Tony Pointer,66,0,UnEmployed,Investing,2962,2098
-714,2013-06-03,William Wiggin,69,0,UnEmployed,Weddings,9782,4133
-715,2021-11-09,Clinton Taggart,71,9162,Employed,Business,3989,1479
-716,2017-02-23,Paul Schoepp,25,6868,Employed,Medical_Expenses,1615,2061
-717,2020-12-17,Tamara Brown,50,4833,Employed,Education,1955,2679
-718,2010-11-26,Billy Mack,91,7889,Employed,Medical_Expenses,3486,631
-719,2010-11-16,Jewel Suarez,86,7734,Employed,Emergence_Expenses,4074,3923
-720,2013-03-06,Cindy Valenzuela,31,5689,Employed,Business,5547,3787
-721,2018-11-07,Debbie Griffin,38,7805,Employed,Traveling,698,4143
-722,2020-02-06,David Barr,24,0,UnEmployed,Traveling,6189,3621
-723,2016-04-12,Josephine Thomas,51,6660,Employed,Weddings,1549,2283
-724,2024-01-13,Jon Lee,47,6163,Employed,Business,9497,2657
-725,2017-07-08,Bertha Hillman,88,0,UnEmployed,Education,1498,2194
-726,2011-12-08,Jesus Hurt,46,9609,Employed,Weddings,6296,3053
-727,2014-03-20,Cher Johnson,25,8032,Employed,Weddings,9235,2660
-728,2020-09-12,Brent Godwin,60,9574,Employed,Education,9851,1596
-729,2013-10-01,Margaret Maher,92,0,UnEmployed,Emergence_Expenses,2096,2615
-730,2011-08-05,Anita Maddox,34,7260,Employed,Investing,2278,3082
-731,2018-08-13,Teresa Mckenzie,35,0,UnEmployed,Business,9379,4604
-732,2022-04-14,Mary Garcia,81,0,UnEmployed,Emergence_Expenses,2748,4371
-733,2011-09-09,Danny Valencia,98,7779,Employed,Traveling,5176,3160
-734,2022-02-25,Bethany Holt,21,3451,Employed,Traveling,6673,2340
-735,2017-07-18,Ralph Allen,82,0,UnEmployed,Medical_Expenses,6577,976
-736,2012-01-26,Hosea Shumate,73,0,UnEmployed,Medical_Expenses,2681,3306
-737,2010-12-07,David Winfrey,49,2950,Employed,Emergence_Expenses,8143,3868
-738,2022-03-15,Stephanie Weaver,91,0,UnEmployed,Weddings,6007,3430
-739,2018-08-26,Betty Parish,31,7666,Employed,Personal Use,6130,2024
-740,2024-03-28,Betty Hensler,90,0,UnEmployed,Medical_Expenses,6048,1798
-741,2014-03-03,Willie Jones,63,0,UnEmployed,Investing,6695,4121
-742,2022-04-07,Lauren Gardner,64,0,UnEmployed,Medical_Expenses,2682,3667
-743,2024-02-09,Amy Jacobs,62,8886,Employed,Emergence_Expenses,5154,3779
-744,2015-11-21,Dorothy Franks,41,0,UnEmployed,Traveling,1638,4632
-745,2020-04-13,Nicole Hardy,35,2709,Employed,Education,5913,3242
-746,2022-02-26,Theodore Fontenot,95,6945,Employed,Traveling,726,4363
-747,2014-06-22,Rodney Wessner,61,0,UnEmployed,Personal Use,7562,1298
-748,2023-04-12,Pauline Ayala,34,7247,Employed,Business,3856,3997
-749,2017-07-04,Harry Jordan,60,8271,Employed,Personal Use,6927,2028
-750,2024-06-20,Randy Coleman,77,5449,Employed,Emergence_Expenses,9880,2617
-751,2010-08-28,Susan Blaine,34,4415,Employed,Personal Use,7214,933
-752,2016-01-03,Annie Shaw,65,0,UnEmployed,Personal Use,3753,3430
-753,2015-12-27,Frank Leon,54,0,UnEmployed,Weddings,4358,3755
-754,2019-09-23,James Willis,46,9134,Employed,Emergence_Expenses,4647,1439
-755,2015-05-31,Daniel Hall,26,0,UnEmployed,Education,8270,3634
-756,2024-08-20,Mary Woodard,34,0,UnEmployed,Emergence_Expenses,3122,1891
-757,2011-03-17,Kyle George,59,8838,Employed,Investing,5008,691
-758,2016-04-30,James Petersen,91,4217,Employed,Medical_Expenses,9452,678
-759,2019-09-18,Jon Holvey,33,0,UnEmployed,Education,9130,2381
-760,2016-04-06,Miranda Flint,49,0,UnEmployed,Weddings,6514,4907
-761,2019-08-02,Pamela Parker,53,5737,Employed,Traveling,6102,3430
-762,2021-08-08,Cornelius Berry,71,4154,Employed,Business,7664,1553
-763,2017-03-18,Stephanie Levine,46,0,UnEmployed,Medical_Expenses,1624,733
-764,2017-09-15,Edward Smith,23,0,UnEmployed,Investing,6994,4563
-765,2024-10-05,Don Jones,74,0,UnEmployed,Personal Use,890,2406
-766,2017-02-03,Diana Hughes,88,8492,Employed,Investing,8085,1322
-767,2023-05-05,Mary Cunningham,39,0,UnEmployed,Weddings,5484,4115
-768,2022-11-30,Dean Kuan,90,9660,Employed,Personal Use,7924,2485
-769,2020-01-23,David Cox,24,5576,Employed,Investing,5970,4886
-770,2011-04-17,Gregory Lindblom,77,9033,Employed,Business,4050,3029
-771,2023-01-03,Billy Barnhurst,71,0,UnEmployed,Emergence_Expenses,2195,2353
-772,2020-12-26,Emanuel Woodby,40,8711,Employed,Medical_Expenses,7213,3815
-773,2020-09-12,Kelvin Carter,89,6736,Employed,Education,3794,3723
-774,2013-10-14,Chad Kochanski,73,0,UnEmployed,Traveling,7462,4375
-775,2021-11-04,Eric Conner,79,0,UnEmployed,Weddings,7673,2480
-776,2016-05-29,Earl Mendez,87,0,UnEmployed,Emergence_Expenses,6306,2635
-777,2012-02-09,Paul Rivera,70,0,UnEmployed,Personal Use,2390,3363
-778,2011-02-06,Connie Abel,95,8748,Employed,Medical_Expenses,5103,2317
-779,2013-12-11,Adriana Morales,90,9069,Employed,Personal Use,2561,4932
-780,2018-08-29,Preston Zurita,36,3558,Employed,Weddings,7696,981
-781,2016-03-12,Cassie Jacobs,71,0,UnEmployed,Education,9069,795
-782,2010-07-19,Betty Drury,56,4894,Employed,Business,2257,2071
-783,2019-07-05,Jeffrey Drew,92,4261,Employed,Weddings,1701,1299
-784,2012-08-15,Shirley Fravel,96,0,UnEmployed,Business,2531,3094
-785,2021-06-14,Robert Garcia,94,6322,Employed,Traveling,5780,3475
-786,2017-10-31,Randy James,87,0,UnEmployed,Business,1474,4773
-787,2011-11-07,Rena Bollinger,28,0,UnEmployed,Investing,7251,3025
-788,2019-12-23,Edna Rooney,41,4940,Employed,Emergence_Expenses,8756,3047
-789,2024-09-15,Pamela Streetman,32,7073,Employed,Personal Use,2180,822
-790,2011-12-19,Valerie Mccurdy,44,9015,Employed,Traveling,4903,3419
-791,2015-08-10,Shawn Simpson,68,0,UnEmployed,Business,7232,3189
-792,2020-12-14,Wendy Hurtubise,33,0,UnEmployed,Investing,3028,3135
-793,2023-05-10,Jean Mounts,69,4461,Employed,Weddings,746,4160
-794,2010-01-31,Frances Adams,44,0,UnEmployed,Personal Use,2853,1641
-795,2017-09-28,Jonathan Mcneal,30,9686,Employed,Traveling,1437,4128
-796,2022-03-16,Chas Berrios,29,0,UnEmployed,Emergence_Expenses,9371,1614
-797,2020-02-12,Michelle English,75,7225,Employed,Weddings,7148,2543
-798,2010-01-19,Margret Signorile,72,0,UnEmployed,Business,6786,4090
-799,2012-05-30,Cristine Bells,68,0,UnEmployed,Traveling,3364,1267
-800,2011-12-01,Jennifer Lee,43,0,UnEmployed,Investing,2114,637
-801,2022-12-20,Veronica Cuffie,86,0,UnEmployed,Traveling,4757,866
-802,2018-03-05,Mary Sosa,54,5783,Employed,Investing,9803,2042
-803,2020-12-19,Tena Brower,35,0,UnEmployed,Emergence_Expenses,5382,1814
-804,2010-10-08,Christine Murphy,25,0,UnEmployed,Personal Use,7338,2249
-805,2016-08-15,Scott Garrett,69,7942,Employed,Medical_Expenses,7400,2143
-806,2019-01-25,David Peterson,90,9224,Employed,Medical_Expenses,5366,3006
-807,2021-03-14,Garfield Ogden,69,3251,Employed,Medical_Expenses,9445,997
-808,2018-01-15,Bernice Coleman,57,9095,Employed,Emergence_Expenses,7374,1666
-809,2012-10-02,Ernestine Ambrose,69,0,UnEmployed,Traveling,7064,3052
-810,2022-02-19,Robert Sexton,30,0,UnEmployed,Emergence_Expenses,1063,4023
-811,2010-07-11,Lenora Mcintosh,67,0,UnEmployed,Investing,2564,2248
-812,2014-06-03,Alejandro Stoney,50,0,UnEmployed,Medical_Expenses,2463,1849
-813,2019-06-11,Gwendolyn Hudson,49,0,UnEmployed,Investing,3946,4104
-814,2020-05-30,Mary Hernandez,63,0,UnEmployed,Business,4478,1932
-815,2023-10-01,Arnoldo Mini,26,0,UnEmployed,Business,4858,2169
-816,2024-01-26,Frank Glover,96,3028,Employed,Traveling,3693,3164
-817,2021-01-27,Raymond Cuevas,89,0,UnEmployed,Medical_Expenses,9608,3959
-818,2023-07-03,Janet Keller,56,5555,Employed,Business,828,1208
-819,2010-11-26,Anita Curtis,96,0,UnEmployed,Medical_Expenses,2971,4025
-820,2013-09-12,David Godfrey,25,7167,Employed,Investing,1921,3485
-821,2012-05-14,Aimee Layman,27,4117,Employed,Personal Use,8320,3989
-822,2010-04-13,Philip Dubois,61,0,UnEmployed,Emergence_Expenses,6809,2447
-823,2015-03-04,Lisa Muhlbauer,62,0,UnEmployed,Business,8373,4950
-824,2010-02-18,Mike Lyons,38,0,UnEmployed,Weddings,3045,1780
-825,2023-02-24,Dina Rowland,44,0,UnEmployed,Emergence_Expenses,6494,2445
-826,2019-03-22,David Berganza,83,0,UnEmployed,Investing,5518,2039
-827,2015-12-23,Larry Colby,65,7118,Employed,Weddings,6611,3004
-828,2017-07-20,Jessica Tierney,86,4561,Employed,Personal Use,8882,1502
-829,2023-10-05,Eugene Dinger,72,0,UnEmployed,Investing,7734,3526
-830,2024-09-17,James Ocampo,76,2346,Employed,Medical_Expenses,5631,2056
-831,2021-07-24,Kelli Rivera,63,0,UnEmployed,Medical_Expenses,3525,1320
-832,2014-04-01,Billy Mangione,87,4122,Employed,Emergence_Expenses,5700,1584
-833,2020-06-01,Ada Gamez,86,0,UnEmployed,Education,9789,4277
-834,2022-06-17,Judy Soto,91,0,UnEmployed,Traveling,5374,671
-835,2017-11-07,Mildred Trent,96,0,UnEmployed,Traveling,3038,3749
-836,2017-06-05,Elsie Lopez,70,8722,Employed,Investing,3103,3206
-837,2022-02-20,Donna Morris,94,2729,Employed,Weddings,7122,4752
-838,2023-08-16,Laura Trexler,90,8590,Employed,Emergence_Expenses,2315,3482
-839,2020-05-17,Thomas Frase,69,0,UnEmployed,Weddings,1290,2719
-840,2020-04-30,Patricia Acosta,22,6697,Employed,Medical_Expenses,4089,2733
-841,2016-06-01,Raul Edie,23,0,UnEmployed,Investing,6359,2755
-842,2024-05-31,Marvin Chen,91,0,UnEmployed,Investing,1276,2345
-843,2019-07-17,Calvin Specht,83,0,UnEmployed,Medical_Expenses,6151,1695
-844,2016-06-11,Benita Mejia,85,0,UnEmployed,Weddings,5190,2926
-845,2010-03-11,Carl Clark,28,0,UnEmployed,Emergence_Expenses,778,2349
-846,2022-11-23,Nicholas Kirk,70,0,UnEmployed,Weddings,7466,3323
-847,2015-09-07,David Frailey,41,9987,Employed,Education,8337,1905
-848,2012-08-24,Cheryl Ceballos,70,6624,Employed,Medical_Expenses,521,1060
-849,2022-05-20,James Beckman,99,3324,Employed,Emergence_Expenses,4810,4019
-850,2022-11-19,Karin Whitten,42,0,UnEmployed,Education,986,3792
-851,2012-07-24,Conrad Woock,88,0,UnEmployed,Emergence_Expenses,8086,1053
-852,2010-07-15,Nicole Hewitt,99,5612,Employed,Emergence_Expenses,3138,528
-853,2019-08-12,Denise Shelley,33,0,UnEmployed,Investing,8690,1206
-854,2017-02-03,Eileen Abbott,26,9874,Employed,Traveling,7193,2279
-855,2011-12-10,Clyde Shaw,57,2074,Employed,Medical_Expenses,6764,3874
-856,2011-04-04,Eddie Schmidt,88,0,UnEmployed,Weddings,2779,4740
-857,2017-10-21,Sharon Mock,90,8014,Employed,Medical_Expenses,7545,4414
-858,2017-03-12,Martha Ponce,92,5907,Employed,Emergence_Expenses,6352,3261
-859,2013-02-20,Valerie Carey,32,0,UnEmployed,Personal Use,3685,2988
-860,2011-11-24,Pedro Summers,51,0,UnEmployed,Emergence_Expenses,8664,3346
-861,2022-06-10,Janis Williams,80,9178,Employed,Medical_Expenses,4237,2204
-862,2016-07-27,Brett Rock,41,0,UnEmployed,Education,9676,3065
-863,2016-02-27,Victor Shindle,22,0,UnEmployed,Personal Use,4278,3026
-864,2019-12-05,Antonio Sweed,24,0,UnEmployed,Medical_Expenses,2887,940
-865,2013-07-14,Megan Barnes,78,0,UnEmployed,Business,6540,3046
-866,2011-01-22,Thelma Litchfield,72,0,UnEmployed,Education,1461,1346
-867,2017-08-22,Roger Thornley,84,0,UnEmployed,Investing,2704,2193
-868,2011-11-29,Ira Vegas,93,0,UnEmployed,Investing,7726,2009
-869,2016-06-08,Linda Testa,75,0,UnEmployed,Traveling,7244,3618
-870,2017-08-07,Marlene Starr,39,0,UnEmployed,Emergence_Expenses,6564,1331
-871,2012-04-13,Christopher Hendrickson,86,0,UnEmployed,Investing,5537,1549
-872,2018-01-08,Nellie Faris,30,6310,Employed,Personal Use,7512,3847
-873,2020-08-19,Alvin Page,69,8159,Employed,Education,7224,2152
-874,2019-09-22,Michiko Bison,85,0,UnEmployed,Medical_Expenses,7560,4047
-875,2020-06-29,Sarah Banker,87,2016,Employed,Education,6894,4263
-876,2013-04-23,Harry Sunderman,82,8186,Employed,Education,1550,1923
-877,2010-09-10,Gary Geiger,67,4180,Employed,Business,8393,1554
-878,2013-02-28,Beverly Bouchard,93,0,UnEmployed,Investing,1393,4624
-879,2013-03-29,Lee Younts,44,8728,Employed,Traveling,2534,1274
-880,2011-09-03,Bryan Gibbs,94,6191,Employed,Traveling,5938,1415
-881,2018-12-10,Judy Talley,65,7361,Employed,Medical_Expenses,6504,3572
-882,2018-11-01,Lakisha Neal,29,6875,Employed,Education,8258,3478
-883,2022-07-17,Henry Cole,62,2713,Employed,Weddings,1414,678
-884,2024-05-07,Andrew Jones,57,0,UnEmployed,Education,1718,2358
-885,2015-12-29,Betty Foster,59,0,UnEmployed,Education,5557,1656
-886,2016-02-10,Josefina Klein,81,9377,Employed,Investing,8119,578
-887,2020-11-09,Clifford Marcum,58,2071,Employed,Medical_Expenses,1580,683
-888,2017-10-13,Judith Franco,97,0,UnEmployed,Weddings,4804,1728
-889,2020-09-27,Tonya Sohre,98,3569,Employed,Education,6301,1229
-890,2022-11-29,John Sweet,69,2765,Employed,Weddings,1550,3030
-891,2023-10-28,Robert Rodgers,80,6864,Employed,Business,7620,2629
-892,2022-12-26,Amelia Kenny,43,3304,Employed,Business,5552,1248
-893,2015-10-30,Solange Campbell,24,4522,Employed,Emergence_Expenses,9355,2839
-894,2014-02-22,Sarah Guajardo,87,3962,Employed,Emergence_Expenses,5284,3665
-895,2013-07-13,Carmen Calhoun,71,0,UnEmployed,Emergence_Expenses,8977,3934
-896,2018-02-13,Gina Seip,50,2745,Employed,Business,3020,1538
-897,2014-10-25,Roberta Jackson,72,6786,Employed,Traveling,1662,2205
-898,2014-06-12,Shaun Levan,82,5260,Employed,Emergence_Expenses,2609,3966
-899,2010-10-20,Faith Walker,39,0,UnEmployed,Investing,2736,4145
-900,2023-05-26,Annabelle Martinez,32,0,UnEmployed,Business,7665,815
-901,2016-03-20,Alvin Suarez,38,0,UnEmployed,Investing,4138,1483
-902,2015-06-26,Janette Wing,46,3774,Employed,Personal Use,7290,2809
-903,2016-05-05,Tanika Matthews,85,6319,Employed,Emergence_Expenses,2052,1098
-904,2024-12-14,Michael Moore,56,4667,Employed,Medical_Expenses,2503,2370
-905,2016-10-30,Louis Martin,57,0,UnEmployed,Emergence_Expenses,7996,1487
-906,2023-11-23,John Bobeck,84,0,UnEmployed,Business,8757,4449
-907,2016-12-26,Laura Loynes,41,0,UnEmployed,Traveling,8791,509
-908,2024-07-21,Judy Macias,50,6364,Employed,Investing,5420,1117
-909,2019-04-06,Joyce Lanier,45,9278,Employed,Weddings,8656,2083
-910,2012-01-30,Kevin Moore,42,6860,Employed,Medical_Expenses,5233,1129
-911,2024-07-23,Wanda Gable,47,0,UnEmployed,Personal Use,1594,4202
-912,2023-06-18,Linda Leclair,66,0,UnEmployed,Investing,5149,1269
-913,2020-08-14,Evelyn Shank,26,0,UnEmployed,Traveling,1841,4997
-914,2020-07-21,Curtis Stewart,61,0,UnEmployed,Emergence_Expenses,8883,2999
-915,2021-01-24,Nancy Diamond,84,0,UnEmployed,Personal Use,1859,4999
-916,2020-12-06,Mary Mcgraw,88,0,UnEmployed,Business,3400,4000
-917,2017-04-24,Myrtle Bunch,60,0,UnEmployed,Emergence_Expenses,5896,919
-918,2018-01-24,Dennis Arnold,48,0,UnEmployed,Traveling,1892,3431
-919,2012-11-11,Angela Gardner,74,6815,Employed,Business,8179,4842
-920,2017-11-13,Mara Chandler,52,0,UnEmployed,Business,5983,2490
-921,2013-10-26,Austin Berry,78,9695,Employed,Personal Use,3311,3757
-922,2023-10-23,Alfred Schafer,53,0,UnEmployed,Business,504,1723
-923,2010-05-26,Edward Weimer,21,7812,Employed,Medical_Expenses,8680,1354
-924,2013-02-21,Robbie Hupp,89,0,UnEmployed,Investing,5530,1228
-925,2019-12-02,Megan Fava,63,0,UnEmployed,Weddings,798,2974
-926,2022-08-13,Ann Voyer,59,0,UnEmployed,Education,4535,1200
-927,2021-09-12,Mary Simms,74,7362,Employed,Traveling,2727,3982
-928,2016-08-10,James Watson,76,8719,Employed,Traveling,2548,3677
-929,2013-11-26,Heather Rhames,61,3975,Employed,Emergence_Expenses,7713,4618
-930,2012-12-31,Kristen Cipolla,23,4951,Employed,Education,9387,3188
-931,2018-11-08,Christine Grove,57,8613,Employed,Education,6109,1473
-932,2021-09-17,Johnie Miner,37,5894,Employed,Traveling,8744,1329
-933,2012-05-28,Sue Lee,23,7702,Employed,Investing,3427,2237
-934,2020-06-16,Clarence Thompson,59,7325,Employed,Investing,5954,2195
-935,2024-06-29,Tarsha Power,59,4097,Employed,Education,1323,710
-936,2021-09-14,Cecil Amaya,38,0,UnEmployed,Weddings,4592,1106
-937,2018-09-22,Cory Figueroa,80,0,UnEmployed,Traveling,2637,4524
-938,2014-09-14,Janel Smith,55,4962,Employed,Weddings,3467,2116
-939,2015-09-25,Julia Kaster,41,6504,Employed,Business,2889,3969
-940,2024-05-16,Kevin Degreenia,83,0,UnEmployed,Medical_Expenses,9597,2520
-941,2016-11-04,Katharine Brown,29,9651,Employed,Education,1054,2462
-942,2023-05-11,Patrice Pullum,31,0,UnEmployed,Investing,6273,4779
-943,2010-09-14,Deborah Rose,86,9508,Employed,Personal Use,9797,4456
-944,2020-11-18,Michael Stone,51,7833,Employed,Weddings,6029,4723
-945,2015-07-16,Franklin Doan,98,4853,Employed,Emergence_Expenses,8213,1230
-946,2021-05-26,Diana He,82,0,UnEmployed,Traveling,4670,3659
-947,2023-09-01,Paula Williams,35,3265,Employed,Weddings,1992,1046
-948,2021-06-29,Katrina Bell,63,2722,Employed,Weddings,903,903
-949,2010-12-15,Jimmy Brewer,66,0,UnEmployed,Business,6645,1018
-950,2015-12-05,Anthony Johnson,31,8121,Employed,Traveling,4219,896
-951,2017-11-06,Maria Bell,47,0,UnEmployed,Medical_Expenses,851,979
-952,2013-03-08,David Cohrs,96,0,UnEmployed,Investing,6876,2899
-953,2019-05-28,Veronica Houser,46,4684,Employed,Business,8799,3389
-954,2012-05-29,Opal Otting,97,7081,Employed,Emergence_Expenses,7864,4517
-955,2024-03-13,Michael Kincade,76,7630,Employed,Business,5169,1195
-956,2018-01-30,Nathan Riggs,47,0,UnEmployed,Emergence_Expenses,6563,2647
-957,2016-04-11,Paul Puckett,51,6074,Employed,Weddings,3544,2648
-958,2010-10-17,Kimberly Mays,62,0,UnEmployed,Education,3025,995
-959,2022-12-28,James Hill,36,6457,Employed,Medical_Expenses,2553,1391
-960,2015-07-13,John Sanders,32,8040,Employed,Medical_Expenses,553,3180
-961,2017-05-30,Ellen Lee,82,5369,Employed,Business,9660,3336
-962,2024-02-08,Janet Brown,97,2868,Employed,Education,4129,4251
-963,2011-01-20,Dorothy Mota,60,3033,Employed,Education,8678,2792
-964,2017-11-28,Michael Segura,60,7312,Employed,Education,3930,2759
-965,2021-04-17,Bertha Ross,56,0,UnEmployed,Emergence_Expenses,5184,2150
-966,2019-01-14,Isabel Swan,94,0,UnEmployed,Education,9066,4123
-967,2014-05-12,Thomas Olive,21,8175,Employed,Emergence_Expenses,2828,4913
-968,2013-05-06,Victor Cunningham,21,8321,Employed,Traveling,8026,596
-969,2010-09-30,Danny Washington,84,0,UnEmployed,Emergence_Expenses,2109,3579
-970,2023-10-26,Jeffrey Stahly,27,0,UnEmployed,Traveling,3342,4591
-971,2010-02-20,Kim Juarez,25,9324,Employed,Traveling,6663,3582
-972,2014-07-12,Elizabeth Stout,40,0,UnEmployed,Business,4604,627
-973,2022-08-25,Cody Grant,98,6335,Employed,Medical_Expenses,6108,1034
-974,2022-12-05,Jack Chen,39,0,UnEmployed,Education,5014,2508
-975,2011-04-05,Devon Gragg,59,0,UnEmployed,Personal Use,1999,3491
-976,2012-08-20,Steven Rademacher,52,0,UnEmployed,Medical_Expenses,4939,3708
-977,2017-11-07,Elana Grant,73,6375,Employed,Investing,1239,2920
-978,2021-01-31,Ethan Smith,36,0,UnEmployed,Investing,8122,4976
-979,2010-08-15,Karen Clark,63,3732,Employed,Personal Use,5331,898
-980,2014-01-16,Willard Bissonnette,23,0,UnEmployed,Business,2207,4523
-981,2015-03-22,Sharda Lipscomb,98,0,UnEmployed,Weddings,1390,1195
-982,2022-05-20,Kathryn Clark,43,0,UnEmployed,Personal Use,5963,3501
-983,2018-07-19,Edward Hornyak,57,9626,Employed,Education,6770,2349
-984,2020-07-01,David May,50,6580,Employed,Emergence_Expenses,8270,2460
-985,2012-05-14,Tony Young,26,0,UnEmployed,Business,1310,2648
-986,2023-11-22,Joe Trevino,77,4758,Employed,Personal Use,8196,1126
-987,2016-08-23,William Rusch,30,5101,Employed,Medical_Expenses,6091,4888
-988,2019-08-22,Nelson Ledford,29,0,UnEmployed,Medical_Expenses,9369,4747
-989,2018-01-28,Daisy Rose,33,0,UnEmployed,Weddings,6067,2417
-990,2022-08-30,Fernando Dugan,69,0,UnEmployed,Investing,901,1467
-991,2022-09-26,Arthur Spry,26,0,UnEmployed,Education,3335,1417
-992,2017-07-26,Carl Paullin,73,4197,Employed,Weddings,5742,913
-993,2015-03-29,Arlene Newton,76,3763,Employed,Emergence_Expenses,9206,2432
-994,2011-09-14,Donald Segovia,51,2357,Employed,Emergence_Expenses,1592,3384
-995,2023-08-20,Michael Dickinson,21,2571,Employed,Investing,1092,2628
-996,2011-04-08,June Nealy,33,0,UnEmployed,Weddings,9176,3270
-997,2010-08-09,Lael Gill,96,8710,Employed,Traveling,2143,3803
-998,2014-11-13,David Stearns,56,0,UnEmployed,Personal Use,6187,988
-999,2012-11-21,Adam Rodriguez,58,0,UnEmployed,Business,7247,3723
-1000,2016-05-26,Kelly Vasquez,80,0,UnEmployed,Personal Use,2190,1749
+1,2020-08-12,Linda Kindred,47,5928,Employed,Personal Use,3596,1666
+2,2024-11-28,Duane Morrison,55,9664,Employed,Traveling,7564,4484
+3,2022-10-21,John Edgeworth,82,0,UnEmployed,Weddings,1761,2183
+4,2023-02-05,James Nelson,26,0,UnEmployed,Business,4145,4465
+5,2019-08-30,Holly Adams,79,6462,Employed,Education,1083,2486
+6,2011-03-10,Timothy Leef,54,9498,Employed,Emergence_Expenses,908,570
+7,2024-01-17,Georgia Phillips,54,0,UnEmployed,Weddings,7026,2831
+8,2022-01-22,Erma Clark,58,3486,Employed,Emergence_Expenses,3463,1208
+9,2012-09-09,Joseph Mcpeak,23,6298,Employed,Medical_Expenses,3287,1045
+10,2016-01-24,Jonathan Wakham,44,4267,Employed,Personal Use,6949,1348
+11,2021-03-28,Patrick Saltsman,73,0,UnEmployed,Education,9280,1043
+12,2014-12-22,Malka Evans,32,0,UnEmployed,Education,3534,1312
+13,2015-07-05,Alice Harris,57,0,UnEmployed,Traveling,2155,633
+14,2015-05-21,Maxwell Brown,94,7110,Employed,Investing,8374,1335
+15,2016-10-31,Chester Houk,52,3399,Employed,Traveling,9970,4763
+16,2011-03-15,Linda Guarino,67,8632,Employed,Business,2980,4436
+17,2024-07-31,Tabitha Ault,50,6287,Employed,Medical_Expenses,7232,1497
+18,2020-05-17,Laura Lewis,36,2904,Employed,Personal Use,3379,4241
+19,2015-10-20,Martha Paulus,65,0,UnEmployed,Traveling,2692,4112
+20,2017-07-30,Mario Haven,41,6310,Employed,Business,9778,2027
+21,2010-06-21,Alicia Roberson,66,4987,Employed,Business,2952,3199
+22,2024-12-02,Frank Long,88,2451,Employed,Medical_Expenses,8715,3672
+23,2011-02-11,Thomas Lewis,98,8774,Employed,Emergence_Expenses,944,2735
+24,2016-02-15,Eugene Paul,79,9418,Employed,Weddings,2245,4477
+25,2021-10-23,April Cooper,94,0,UnEmployed,Medical_Expenses,9720,4236
+26,2024-04-21,Edward Casey,46,0,UnEmployed,Personal Use,9944,2429
+27,2010-04-25,Donald Sykes,24,5349,Employed,Education,9092,3413
+28,2019-09-23,Michael Burt,88,8131,Employed,Education,5799,2453
+29,2021-07-16,Alicia Costello,23,5774,Employed,Personal Use,6223,1697
+30,2019-10-21,Anthony Eskew,69,0,UnEmployed,Education,8866,4119
+31,2023-07-16,Stephen Murphree,90,7883,Employed,Personal Use,1449,1953
+32,2017-12-07,Kathy Campbell,22,0,UnEmployed,Emergence_Expenses,8421,1910
+33,2017-09-17,Martha Slagle,38,8556,Employed,Personal Use,1729,1858
+34,2021-12-13,Donna Risher,26,8087,Employed,Traveling,1616,2517
+35,2011-01-21,Kerry Schurz,77,5521,Employed,Medical_Expenses,1209,4837
+36,2015-08-01,Alfred Clarke,54,2661,Employed,Personal Use,4538,1328
+37,2022-08-14,Herbert Watson,55,2258,Employed,Business,3665,3196
+38,2011-05-19,Nicole Mundy,31,4344,Employed,Medical_Expenses,8644,4634
+39,2010-03-06,Roger Garczynski,57,9234,Employed,Medical_Expenses,2225,4658
+40,2023-11-06,Tammy Fernandez,54,4665,Employed,Education,7229,2393
+41,2018-06-30,David Sanders,65,9399,Employed,Emergence_Expenses,2981,526
+42,2022-04-06,Kenneth Perez,77,2725,Employed,Emergence_Expenses,9150,2804
+43,2024-11-28,Pedro Miller,45,0,UnEmployed,Business,6979,2496
+44,2021-12-05,Herman Baker,71,3371,Employed,Education,3261,2413
+45,2021-04-03,Maurice Kirby,89,4212,Employed,Education,9137,2919
+46,2019-11-14,Russell Roark,35,8957,Employed,Personal Use,7025,2150
+47,2023-04-21,William Le,71,8751,Employed,Emergence_Expenses,8482,1872
+48,2016-10-10,Jacob Bush,24,5142,Employed,Traveling,8160,1673
+49,2014-09-10,Quincy Adam,27,0,UnEmployed,Weddings,4623,506
+50,2015-04-07,Taylor Grider,27,7574,Employed,Personal Use,6103,4343
+51,2021-02-02,Carole Caple,34,5961,Employed,Medical_Expenses,6339,4424
+52,2024-04-22,Karen Hill,63,6118,Employed,Personal Use,6693,4723
+53,2024-09-12,Joann Salisbury,23,9825,Employed,Education,6197,636
+54,2022-12-20,Gene Leslie,36,0,UnEmployed,Weddings,4488,3222
+55,2010-08-04,George Malley,99,7734,Employed,Emergence_Expenses,9559,1607
+56,2020-11-02,Ashley Ramirez,97,9648,Employed,Medical_Expenses,7380,1870
+57,2022-09-04,Michael Barrett,98,8646,Employed,Personal Use,6318,947
+58,2011-06-17,Latrice Abshire,42,3250,Employed,Education,4838,3078
+59,2011-04-09,Melvin Miles,81,2506,Employed,Weddings,5195,4225
+60,2019-06-02,Kristen Ingle,36,8343,Employed,Business,7888,4532
+61,2019-10-16,Steve Ortiz,32,5939,Employed,Weddings,4885,1914
+62,2011-02-11,Bianca Whitford,78,9997,Employed,Traveling,3564,3482
+63,2023-09-19,Brent Torry,24,9622,Employed,Traveling,4215,3798
+64,2011-07-23,Paul Allen,22,2417,Employed,Business,2991,4738
+65,2016-02-28,Rebecca Privitera,82,0,UnEmployed,Medical_Expenses,4676,1673
+66,2019-12-25,Glenna Voit,61,7406,Employed,Medical_Expenses,8070,1963
+67,2017-04-03,William Rose,59,0,UnEmployed,Personal Use,3330,1626
+68,2014-11-06,Stan Baker,97,4391,Employed,Business,1718,600
+69,2011-03-13,Evelyn Lee,92,3160,Employed,Business,8280,4086
+70,2016-10-22,Martha Milano,98,6555,Employed,Medical_Expenses,9667,3663
+71,2015-06-21,Paul Bailey,36,2009,Employed,Traveling,4391,1194
+72,2016-10-02,Patricia Buchanan,44,7128,Employed,Personal Use,9117,4588
+73,2018-09-21,Joseph Brookshire,86,9100,Employed,Traveling,9163,2011
+74,2010-11-06,Christopher Breeden,24,7887,Employed,Business,2681,3613
+75,2024-12-02,Jacob Sprouse,24,9716,Employed,Personal Use,2195,2455
+76,2010-09-06,Robert Ingersoll,78,2896,Employed,Personal Use,9394,1464
+77,2011-11-02,William Gonzalez,40,2690,Employed,Medical_Expenses,8826,2832
+78,2017-02-15,Matthew Soldner,37,4756,Employed,Education,7613,644
+79,2023-03-08,Alan Leonelli,58,5793,Employed,Medical_Expenses,7828,4612
+80,2010-11-30,Melvin Houck,88,8794,Employed,Medical_Expenses,4773,2338
+81,2018-10-30,Wesley Lew,51,5111,Employed,Weddings,8526,2125
+82,2012-03-13,Guillermo Baker,65,7536,Employed,Personal Use,3647,1034
+83,2018-03-05,Deborah Kimball,95,2936,Employed,Medical_Expenses,2317,4874
+84,2019-12-23,Paul Davis,68,6885,Employed,Education,9687,1461
+85,2016-11-10,Donald Allen,66,7975,Employed,Investing,594,3702
+86,2011-01-28,Katherine Dixon,46,6451,Employed,Traveling,578,1563
+87,2024-06-15,Nathan Barrow,76,0,UnEmployed,Investing,4279,3880
+88,2019-09-23,John Naquin,46,7107,Employed,Business,2187,1980
+89,2021-04-26,Thomas Huffman,41,9330,Employed,Education,6320,3568
+90,2023-11-29,Joe Kistner,81,5606,Employed,Weddings,2212,2331
+91,2015-12-14,Darrel Richardson,85,9849,Employed,Traveling,5898,1966
+92,2012-02-09,Janet Johnson,23,0,UnEmployed,Education,6128,4588
+93,2011-10-27,Albert Bell,25,9165,Employed,Business,5354,4083
+94,2021-10-22,Lizzie Mayer,52,7211,Employed,Investing,3224,2793
+95,2024-11-29,Madeline Guilford,99,7083,Employed,Business,6672,3339
+96,2024-12-31,John Casas,59,8654,Employed,Investing,3099,3161
+97,2019-07-28,Mark Bramlett,60,8945,Employed,Medical_Expenses,614,2463
+98,2016-02-21,Dorothy Coley,29,0,UnEmployed,Investing,2219,3875
+99,2014-06-17,Steven Boswell,25,4575,Employed,Investing,4040,1474
+100,2018-07-28,Gary Brown,79,7261,Employed,Personal Use,1229,3018
+101,2024-11-06,Robert Waugh,64,2891,Employed,Traveling,4587,2991
+102,2024-09-05,John Button,82,3442,Employed,Education,4420,1843
+103,2013-04-11,Angel Edwards,80,8326,Employed,Emergence_Expenses,2779,3823
+104,2024-06-24,Andrea Calhoun,35,7116,Employed,Personal Use,3047,1185
+105,2013-04-06,Larry Nassar,91,9593,Employed,Emergence_Expenses,6577,659
+106,2015-07-20,Loretta Williams,85,9010,Employed,Emergence_Expenses,2586,2227
+107,2014-10-18,Lanny Hernandez,65,2112,Employed,Emergence_Expenses,9807,4897
+108,2023-02-02,Marge Patrick,67,0,UnEmployed,Medical_Expenses,3015,4991
+109,2014-12-06,Claude Albrecht,49,8482,Employed,Traveling,986,1672
+110,2023-06-06,Antonio Scott,62,8705,Employed,Weddings,740,4073
+111,2024-05-28,Olga Hoffman,28,0,UnEmployed,Weddings,5106,3841
+112,2010-10-01,Christina Gongalves,36,0,UnEmployed,Investing,4428,849
+113,2020-08-17,Evette Garza,68,8698,Employed,Business,759,2261
+114,2011-11-09,Mario Swanson,45,0,UnEmployed,Investing,4143,2343
+115,2011-10-06,Greg Raczka,94,6724,Employed,Emergence_Expenses,2211,1905
+116,2020-04-19,Shameka Emerson,43,0,UnEmployed,Weddings,5903,4859
+117,2021-05-13,Angel Freeman,33,5400,Employed,Medical_Expenses,5285,1484
+118,2022-02-18,Mathew Paxton,35,2390,Employed,Traveling,6251,1744
+119,2023-12-15,Ann Yarbrough,53,2487,Employed,Personal Use,7765,1437
+120,2016-03-07,Vince Will,87,0,UnEmployed,Investing,2078,4748
+121,2023-12-06,Clint Badilla,61,8205,Employed,Emergence_Expenses,5091,946
+122,2021-05-26,Brian Dorais,56,0,UnEmployed,Education,5990,2141
+123,2019-03-20,Aaron Rackham,84,6533,Employed,Education,1266,579
+124,2018-11-28,Jonathan Labrecque,52,2396,Employed,Medical_Expenses,6448,2854
+125,2021-02-20,Betty Bates,90,0,UnEmployed,Medical_Expenses,2864,1297
+126,2020-03-11,Perry Nisbett,56,7450,Employed,Traveling,1530,3151
+127,2013-05-20,John Fernandez,48,0,UnEmployed,Emergence_Expenses,4620,4826
+128,2022-08-07,Matthew Sartoris,41,9281,Employed,Investing,2243,1989
+129,2012-04-27,Pauline Simon,30,0,UnEmployed,Business,6270,3428
+130,2019-08-13,Jonathan Torres,67,0,UnEmployed,Weddings,7223,2043
+131,2014-09-25,Gale Walker,50,2190,Employed,Business,3137,534
+132,2021-08-16,Theresa Ehsan,32,6580,Employed,Medical_Expenses,6096,1128
+133,2023-04-19,Janice Mckinney,27,6953,Employed,Education,3030,965
+134,2010-08-16,Elizabeth Fugate,33,3383,Employed,Weddings,9010,4070
+135,2024-05-26,George Windham,36,7242,Employed,Medical_Expenses,2465,4559
+136,2019-11-29,Jennifer Costley,93,8146,Employed,Business,7266,2965
+137,2017-08-26,Lois Mirabal,22,9020,Employed,Investing,1648,3476
+138,2019-10-28,James Coffman,98,2834,Employed,Personal Use,6234,1006
+139,2024-10-19,Ramona Vereen,55,3976,Employed,Investing,8515,3782
+140,2013-12-29,Katherine Hessler,84,9742,Employed,Traveling,8822,4447
+141,2022-06-03,Fern Washington,83,9273,Employed,Personal Use,2678,4808
+142,2013-01-26,Bonnie Murach,87,4205,Employed,Investing,6814,890
+143,2015-09-13,Rebecca Mcgraw,65,8433,Employed,Business,5846,1523
+144,2020-07-03,Dana Hoover,62,6588,Employed,Education,3794,2462
+145,2020-12-31,Mary Dunaway,36,0,UnEmployed,Emergence_Expenses,8060,2768
+146,2017-08-16,Amanda James,84,4565,Employed,Weddings,1763,1830
+147,2017-04-12,Edith Fiedler,57,2824,Employed,Emergence_Expenses,1451,3847
+148,2022-10-26,Randall Ashton,97,9331,Employed,Personal Use,3145,3266
+149,2023-04-26,Christine Vogt,29,8161,Employed,Traveling,1924,1213
+150,2017-01-05,Adam Novack,94,7620,Employed,Weddings,9840,2345
+151,2010-03-25,Patricia Adams,91,0,UnEmployed,Emergence_Expenses,6168,3683
+152,2020-09-02,Ellen Smith,73,0,UnEmployed,Education,5955,2238
+153,2020-01-08,Gregory Hamilton,30,3664,Employed,Medical_Expenses,5532,4145
+154,2024-02-25,Donald Campuzano,69,0,UnEmployed,Investing,7550,4096
+155,2015-07-24,Jason Gutierrez,94,9430,Employed,Investing,1797,1146
+156,2010-10-10,Jeremy Kemp,90,0,UnEmployed,Traveling,7883,3687
+157,2018-08-11,Keshia Crawford,49,7437,Employed,Emergence_Expenses,9021,3355
+158,2012-10-29,Dorothy Brown,64,2576,Employed,Traveling,2790,677
+159,2023-07-29,John Headley,55,0,UnEmployed,Weddings,8085,1041
+160,2013-04-05,David Cervantes,23,0,UnEmployed,Traveling,8194,4886
+161,2016-02-13,James Byrd,36,5095,Employed,Education,4228,1183
+162,2014-06-25,Richard Lehmberg,79,0,UnEmployed,Personal Use,8030,3868
+163,2014-10-29,Jarvis Wilson,24,8359,Employed,Personal Use,5581,653
+164,2020-12-06,Lorrie Doherty,40,8314,Employed,Personal Use,3511,2879
+165,2019-08-21,Karl Currie,30,4240,Employed,Medical_Expenses,6259,1749
+166,2011-03-12,Laura Castro,67,5529,Employed,Personal Use,1858,2049
+167,2020-07-17,Mamie Jackson,25,8909,Employed,Emergence_Expenses,2088,4630
+168,2020-01-27,William Green,26,5720,Employed,Emergence_Expenses,8196,2456
+169,2018-02-11,Susan Curry,32,8070,Employed,Medical_Expenses,2375,3599
+170,2020-12-09,Leslie Vessels,25,3419,Employed,Traveling,4837,1622
+171,2014-08-03,Jerry Whitehead,67,4230,Employed,Education,2056,2483
+172,2011-02-28,Jayne Wrigley,88,2776,Employed,Education,2605,1862
+173,2010-11-26,Joan Allen,39,7372,Employed,Emergence_Expenses,8595,1938
+174,2016-05-08,Hugo Gutierrez,83,0,UnEmployed,Emergence_Expenses,4095,4800
+175,2022-08-21,Deborah Millerbernd,22,4873,Employed,Weddings,8418,2957
+176,2022-02-18,Christina Tolman,87,9354,Employed,Medical_Expenses,9522,2143
+177,2022-01-30,Bruce Foote,99,8357,Employed,Personal Use,5092,4301
+178,2015-12-10,Katherine Wall,62,4286,Employed,Weddings,9110,3127
+179,2024-02-14,Larry Johnson,30,3491,Employed,Personal Use,7938,3615
+180,2015-08-27,Frank Rios,67,9479,Employed,Weddings,4565,508
+181,2019-11-10,Bryan Estes,31,7640,Employed,Business,7307,1905
+182,2011-05-02,Brenda Kimble,57,0,UnEmployed,Business,6078,3808
+183,2016-04-06,Harold Morales,33,0,UnEmployed,Personal Use,5477,516
+184,2019-08-21,Marie Ezpeleta,87,4023,Employed,Emergence_Expenses,1359,1202
+185,2021-07-13,Matthew Vandyke,86,0,UnEmployed,Education,3017,2413
+186,2020-08-07,Kenneth Thrasher,52,7115,Employed,Weddings,8868,2364
+187,2013-05-02,Edwardo Fonceca,33,7704,Employed,Business,4645,846
+188,2010-07-05,Courtney Cogswell,55,0,UnEmployed,Personal Use,9684,1290
+189,2010-12-31,Roberta Otis,87,2927,Employed,Education,6909,2353
+190,2020-02-22,Susan Calicott,75,0,UnEmployed,Medical_Expenses,2718,4782
+191,2020-08-22,Caroline Floyd,63,6263,Employed,Medical_Expenses,1658,2115
+192,2011-09-27,Andre Dziuk,63,4964,Employed,Emergence_Expenses,6099,750
+193,2024-08-25,Kristine Barahona,62,4344,Employed,Business,9552,1093
+194,2023-12-09,Thomas Guerra,31,5873,Employed,Traveling,5338,1072
+195,2014-10-27,Stephen Weaver,89,7239,Employed,Education,7169,937
+196,2013-03-19,Jonathan Moore,69,6424,Employed,Business,5405,4717
+197,2010-07-11,Mandy Vigil,28,0,UnEmployed,Personal Use,9687,2573
+198,2010-07-18,Kathleen Corvino,83,0,UnEmployed,Business,5267,2095
+199,2013-12-02,Vicki Sanders,65,6125,Employed,Personal Use,6637,2693
+200,2015-12-19,Mark Proctor,36,8645,Employed,Emergence_Expenses,7799,3877
+201,2023-04-21,Yolanda Decker,33,2457,Employed,Investing,4045,4579
+202,2011-07-08,Richard Nalevanko,26,6100,Employed,Weddings,2937,1651
+203,2020-03-10,Gregorio Coleman,41,0,UnEmployed,Investing,8717,3059
+204,2019-02-01,Troy Tabor,67,9395,Employed,Education,9781,1485
+205,2021-06-18,Ronald Nichols,47,8997,Employed,Investing,9314,1505
+206,2022-03-08,Mary Wall,93,4905,Employed,Medical_Expenses,3773,2571
+207,2020-07-02,Ann Sneed,67,9488,Employed,Business,5636,1440
+208,2023-10-01,Joyce Bishop,75,3705,Employed,Business,6975,2467
+209,2024-08-04,Charles Freeman,68,7745,Employed,Traveling,3342,2644
+210,2022-06-26,Kevin Wood,55,4550,Employed,Investing,5987,1397
+211,2016-11-29,Jason Rudzinski,27,7566,Employed,Weddings,7282,1364
+212,2019-05-27,Mark Kher,47,9295,Employed,Business,4926,4304
+213,2011-01-09,Sadie Tucker,77,4445,Employed,Investing,2179,3719
+214,2018-09-06,Joshua Needleman,52,0,UnEmployed,Education,6512,581
+215,2015-06-15,Elizabeth Mckenzie,80,3431,Employed,Traveling,810,2144
+216,2012-04-17,Amy Hang,63,3246,Employed,Medical_Expenses,2766,1428
+217,2016-07-24,Richard Walker,49,2125,Employed,Business,3007,4079
+218,2013-02-25,Allen Peterson,52,8116,Employed,Personal Use,654,2910
+219,2012-12-19,Javier Benitez,37,7705,Employed,Traveling,6480,1655
+220,2011-06-08,John Licea,51,4886,Employed,Education,9195,958
+221,2020-10-15,Rita Cooper,35,2868,Employed,Emergence_Expenses,4672,3765
+222,2022-01-31,Karen Scott,85,0,UnEmployed,Education,7450,1942
+223,2014-08-28,Rosalie Godbee,95,7330,Employed,Business,2841,979
+224,2019-01-12,Richard Turner,73,3445,Employed,Education,9598,2912
+225,2015-05-30,Amanda Frazier,46,7350,Employed,Traveling,9867,795
+226,2014-10-04,Peter Bernal,50,0,UnEmployed,Investing,8415,2193
+227,2018-11-09,Eleanor Large,45,8319,Employed,Investing,5386,1268
+228,2014-05-31,Diane Huffman,81,3409,Employed,Personal Use,6050,3155
+229,2014-02-16,Emil Bell,88,3890,Employed,Traveling,2464,696
+230,2022-04-30,Mika Rowley,64,0,UnEmployed,Traveling,9056,704
+231,2018-07-20,Heather Adrian,43,8974,Employed,Emergence_Expenses,3196,4207
+232,2018-09-09,Anthony Yim,88,4736,Employed,Traveling,7106,1751
+233,2023-06-08,James Rudzinski,94,6190,Employed,Investing,983,715
+234,2017-07-28,Patsy Gilbert,42,3186,Employed,Emergence_Expenses,9627,2007
+235,2013-11-30,Jean Curtice,92,3903,Employed,Education,9844,1092
+236,2012-08-14,Margret Hightower,39,5316,Employed,Education,3655,2013
+237,2024-08-17,Domingo Garrett,49,6384,Employed,Weddings,6617,3108
+238,2014-11-30,Gregory Crosby,46,3270,Employed,Traveling,5381,546
+239,2023-01-09,Jennifer Mccarter,34,0,UnEmployed,Medical_Expenses,4491,1380
+240,2024-04-09,Eugene Gordon,28,8097,Employed,Emergence_Expenses,5268,4436
+241,2014-01-20,Virginia Irvin,51,2709,Employed,Business,9394,1488
+242,2017-02-28,Shirley Barrington,40,0,UnEmployed,Investing,7578,1231
+243,2023-06-30,James Lowe,59,9267,Employed,Emergence_Expenses,4908,3575
+244,2017-12-29,Nora Conway,87,0,UnEmployed,Weddings,3062,3946
+245,2011-07-12,Sandra Harris,89,6677,Employed,Education,9009,1074
+246,2018-11-08,Ricardo Spurlock,88,8029,Employed,Emergence_Expenses,6874,3573
+247,2020-09-12,Louise Page,59,0,UnEmployed,Business,9117,4578
+248,2010-05-27,Bryan Rogers,93,9409,Employed,Emergence_Expenses,3589,2975
+249,2015-09-08,Erik Grady,89,3046,Employed,Education,6767,1302
+250,2013-02-21,William Lemmo,33,5598,Employed,Business,1800,4552
+251,2020-10-15,Deidra Wheeler,21,0,UnEmployed,Personal Use,597,2052
+252,2020-02-24,Michelle Brignac,76,5033,Employed,Medical_Expenses,7256,3678
+253,2024-02-23,Dorla Fox,84,9193,Employed,Weddings,5135,1530
+254,2012-05-20,Andrew Connolly,33,2981,Employed,Education,1085,3278
+255,2012-09-08,Rebecca Wilson,83,0,UnEmployed,Weddings,9058,4281
+256,2014-01-29,Elva Gonzalez,80,3581,Employed,Emergence_Expenses,4084,2865
+257,2021-03-29,Reginald Winchell,32,3183,Employed,Traveling,5408,507
+258,2015-02-05,Thomas Przybylski,65,7628,Employed,Emergence_Expenses,889,916
+259,2017-11-15,Tiffany Jackson,54,2650,Employed,Medical_Expenses,7778,3052
+260,2018-04-07,Tara Kelley,99,0,UnEmployed,Weddings,3999,1493
+261,2021-06-23,Terry Martinez,48,2152,Employed,Personal Use,8938,1500
+262,2020-10-15,Luis Stanley,44,3310,Employed,Investing,3924,2720
+263,2024-09-21,Walter Gohn,45,3372,Employed,Medical_Expenses,1238,1970
+264,2022-06-06,Charlene Cole,70,6844,Employed,Weddings,5415,2327
+265,2017-10-24,Charles Harvey,64,0,UnEmployed,Investing,2161,1640
+266,2017-10-31,Jill Estrello,72,0,UnEmployed,Emergence_Expenses,2332,4337
+267,2011-05-13,Mary Gates,21,6897,Employed,Business,8470,4697
+268,2024-10-09,Neil White,44,6437,Employed,Education,7695,566
+269,2016-02-19,Esther Makhija,34,5764,Employed,Investing,2757,3859
+270,2013-08-04,Donnell Upshaw,31,5758,Employed,Weddings,2469,3436
+271,2020-10-03,Martha Montgomery,25,6502,Employed,Business,4916,4685
+272,2016-01-15,Marvin Maynard,47,8125,Employed,Investing,3965,609
+273,2015-04-27,Ethel Miller,27,3249,Employed,Business,3328,3019
+274,2014-10-10,Damon Geist,64,6644,Employed,Investing,4551,4128
+275,2014-06-01,Lucille Davis,77,4464,Employed,Personal Use,9071,4138
+276,2016-04-22,Jeff Davis,41,6155,Employed,Traveling,4136,4128
+277,2024-11-27,Latia Medina,28,5511,Employed,Weddings,2267,3547
+278,2011-12-28,Amado Siu,56,2299,Employed,Medical_Expenses,2498,1932
+279,2019-11-01,Christopher Sanderson,37,0,UnEmployed,Medical_Expenses,5616,2739
+280,2022-01-16,David Green,21,9067,Employed,Emergence_Expenses,9564,4806
+281,2015-08-08,Jeremy Moseley,34,8706,Employed,Investing,834,3550
+282,2015-12-05,Francine Hood,34,7955,Employed,Weddings,3780,1621
+283,2014-07-09,Wanda Wilkinson,21,0,UnEmployed,Investing,7344,2475
+284,2018-05-06,James Kinloch,51,7547,Employed,Traveling,5951,2604
+285,2021-07-05,Gayle Martinek,93,0,UnEmployed,Investing,2535,3494
+286,2011-12-16,Lisa Edelstein,77,7059,Employed,Emergence_Expenses,9841,3837
+287,2017-06-08,Pamela Machenry,62,4179,Employed,Traveling,5808,3080
+288,2023-02-25,Dale Catron,80,0,UnEmployed,Personal Use,4741,4868
+289,2016-12-27,Gladys Krausmann,84,4984,Employed,Traveling,1793,1584
+290,2024-04-28,Lucinda Canty,67,8370,Employed,Medical_Expenses,9064,522
+291,2012-02-24,Lawrence Lewandowski,75,2392,Employed,Weddings,924,1628
+292,2016-04-26,Arthur Lewis,67,7639,Employed,Traveling,873,4007
+293,2016-03-04,Timothy Farrow,89,4639,Employed,Weddings,2764,1626
+294,2010-05-13,Deborah Bergeron,94,9224,Employed,Weddings,3371,2429
+295,2022-12-11,Elizabeth Berber,64,3398,Employed,Education,6723,2262
+296,2024-09-09,John Rumble,71,7015,Employed,Medical_Expenses,3620,2691
+297,2012-12-29,Laurie Ramirez,42,8299,Employed,Weddings,3715,1823
+298,2021-05-10,Rosemary Gathers,70,8784,Employed,Weddings,3241,3788
+299,2019-05-04,Carla Moore,73,2143,Employed,Personal Use,8791,4238
+300,2022-08-07,Scott Raschke,88,4385,Employed,Weddings,3326,3013
+301,2021-04-21,Florence Grinnell,87,2347,Employed,Emergence_Expenses,3437,3187
+302,2012-09-28,Gerald Stassi,83,0,UnEmployed,Traveling,6620,1762
+303,2013-05-06,James Moore,45,8180,Employed,Personal Use,8028,870
+304,2010-07-20,Alisa Kinder,49,2005,Employed,Investing,9279,2675
+305,2014-12-20,Lettie Penn,27,0,UnEmployed,Business,4233,1521
+306,2020-06-14,Kenneth Thomas,58,3678,Employed,Emergence_Expenses,6791,3607
+307,2019-04-05,Gerard Erickson,23,6366,Employed,Personal Use,3310,1062
+308,2015-06-15,Christopher Brand,39,2787,Employed,Education,1206,831
+309,2020-12-11,Tommy Crocker,96,6265,Employed,Traveling,5737,1756
+310,2017-08-17,Billie Kagawa,77,2578,Employed,Business,8328,741
+311,2013-05-06,Jack Coleman,66,7170,Employed,Business,4351,2419
+312,2012-07-19,Jason Dauzat,93,0,UnEmployed,Personal Use,4788,3467
+313,2021-12-01,Joseph Coulter,45,6374,Employed,Weddings,8178,822
+314,2018-02-06,Robert Aburto,54,5140,Employed,Personal Use,2640,4503
+315,2022-10-12,Mary Alexander,67,3594,Employed,Investing,1827,4147
+316,2010-05-07,Thomas Dixon,50,2875,Employed,Traveling,7393,1828
+317,2021-12-14,Cynthia Perez,79,8150,Employed,Weddings,3013,2608
+318,2015-01-29,Harry Bryson,42,2421,Employed,Medical_Expenses,8661,2682
+319,2010-08-11,Marcie Harness,84,0,UnEmployed,Investing,5556,2564
+320,2022-03-19,Rodger Reeves,34,8026,Employed,Personal Use,3659,4383
+321,2013-11-13,Leila Donovan,43,5656,Employed,Investing,3509,745
+322,2013-11-24,Denise Mason,41,9408,Employed,Traveling,1902,774
+323,2013-07-08,Irene Pfeffer,47,2295,Employed,Personal Use,817,562
+324,2011-04-03,Thomas Rimmer,89,3236,Employed,Education,4405,2344
+325,2019-02-20,Lela Phillips,27,4106,Employed,Medical_Expenses,2317,3997
+326,2020-11-30,Julie Sutherland,30,0,UnEmployed,Medical_Expenses,7361,3336
+327,2018-07-18,Una Page,85,8103,Employed,Weddings,3471,4950
+328,2023-09-23,Jose Wallace,89,3211,Employed,Weddings,597,3006
+329,2010-01-10,Joshua Bradshaw,98,4860,Employed,Weddings,6566,4311
+330,2011-01-05,Barbara Cook,92,8471,Employed,Emergence_Expenses,1335,3867
+331,2016-04-05,Mary Ray,24,2932,Employed,Weddings,663,3536
+332,2017-11-19,Cynthia Szychowski,26,0,UnEmployed,Education,9328,3271
+333,2018-10-20,Jerry Armstrong,26,7780,Employed,Education,3055,4592
+334,2024-01-31,Mary Comstock,96,4110,Employed,Education,1855,4170
+335,2024-06-30,Lynne Gutierrez,94,0,UnEmployed,Business,8079,1600
+336,2016-02-20,Frances Monroe,96,2113,Employed,Emergence_Expenses,3878,4166
+337,2016-09-17,Barbara Nichols,48,8627,Employed,Education,6512,4409
+338,2013-09-15,Anna Rubin,44,0,UnEmployed,Medical_Expenses,6124,1151
+339,2015-12-28,Andrea Diaz,49,7440,Employed,Weddings,1108,611
+340,2023-10-17,Jerry Dalessio,61,0,UnEmployed,Weddings,7080,906
+341,2018-06-27,James Wood,92,8718,Employed,Traveling,7415,2166
+342,2022-06-22,Todd Vanbrunt,21,8109,Employed,Emergence_Expenses,7410,689
+343,2020-12-25,Donnie Barraza,80,4752,Employed,Traveling,2533,2690
+344,2011-05-06,Patricia Hinkle,42,8411,Employed,Investing,1195,819
+345,2012-07-15,Marianne Mueller,78,4802,Employed,Emergence_Expenses,1826,4924
+346,2020-03-13,Michelle Hall,76,7741,Employed,Medical_Expenses,2589,3232
+347,2024-08-20,Marina Mistrot,50,3444,Employed,Education,3574,1635
+348,2013-07-21,Karl Cole,37,2521,Employed,Personal Use,8631,4753
+349,2022-04-14,David Lander,28,9078,Employed,Education,8974,2498
+350,2021-12-12,John Edward,85,8037,Employed,Education,1429,1733
+351,2013-03-26,Cherise Mclavrin,98,5461,Employed,Investing,4116,1950
+352,2012-07-17,Karlene Stonge,81,8137,Employed,Weddings,7599,3361
+353,2018-08-20,Christopher Cunningham,35,0,UnEmployed,Weddings,4290,2706
+354,2023-02-02,Melissa Gray,63,0,UnEmployed,Medical_Expenses,4705,2718
+355,2021-11-11,Opal Clark,82,0,UnEmployed,Personal Use,2021,781
+356,2020-08-19,William Metayer,81,6617,Employed,Emergence_Expenses,3782,3741
+357,2014-11-28,Joseph Fitch,60,4262,Employed,Investing,3734,4033
+358,2020-10-04,Carlene Rose,37,0,UnEmployed,Medical_Expenses,3033,2177
+359,2010-05-16,William Charles,74,2407,Employed,Business,8097,2912
+360,2014-01-07,Gertrude Robbins,43,6831,Employed,Business,2217,4111
+361,2015-03-12,Lenny Stellman,62,3107,Employed,Investing,2465,775
+362,2019-10-03,Sandra Sheppard,37,5528,Employed,Personal Use,2051,4042
+363,2013-01-29,Tina Scott,62,0,UnEmployed,Emergence_Expenses,7054,2121
+364,2024-06-03,Warren Mabry,56,8351,Employed,Traveling,4265,2355
+365,2011-04-12,Darlene Waage,49,8102,Employed,Education,1117,1549
+366,2022-02-11,Rebecca Buford,76,9816,Employed,Emergence_Expenses,8289,1817
+367,2021-01-17,Myrna Hung,47,6761,Employed,Emergence_Expenses,4772,4524
+368,2016-10-30,Roderick Cohen,72,4952,Employed,Personal Use,4957,3840
+369,2019-03-11,Lindsay Cowan,30,7278,Employed,Weddings,4506,4134
+370,2019-08-11,Jennie Keller,58,0,UnEmployed,Traveling,1511,4259
+371,2010-12-03,Denise Toller,41,5498,Employed,Investing,2326,1830
+372,2021-01-20,Barbara Gerrald,88,9061,Employed,Traveling,3140,3372
+373,2020-04-15,Juanita Hammon,54,6414,Employed,Medical_Expenses,7025,2986
+374,2022-05-26,Frank Adams,34,0,UnEmployed,Emergence_Expenses,2105,3211
+375,2023-07-14,Jason Lockhart,80,7798,Employed,Investing,5906,4241
+376,2014-11-25,Catherine Ramsey,73,2184,Employed,Education,1905,1768
+377,2015-08-04,Leeann Lopez,45,9249,Employed,Investing,7023,4775
+378,2023-11-13,Ethel Haney,88,4889,Employed,Investing,1262,2962
+379,2016-02-26,Herbert Goetz,27,3726,Employed,Business,6113,3728
+380,2024-06-20,Rosemary Cervantes,64,8149,Employed,Personal Use,2993,3308
+381,2013-08-24,Mary Orozco,97,7878,Employed,Education,8467,3352
+382,2022-01-04,Cindy Booker,40,0,UnEmployed,Traveling,4276,1964
+383,2016-08-05,William Brown,63,0,UnEmployed,Investing,8227,4412
+384,2024-05-18,Julia Gorman,27,0,UnEmployed,Medical_Expenses,1375,1197
+385,2021-12-01,Stephen Rapa,25,6898,Employed,Personal Use,2635,3995
+386,2012-04-17,Calvin Murray,44,5979,Employed,Weddings,4696,584
+387,2021-02-22,Steven Houston,61,0,UnEmployed,Weddings,9256,4161
+388,2010-02-23,Martha Walters,82,0,UnEmployed,Education,3219,2228
+389,2012-05-02,Virginia Jackson,71,4206,Employed,Weddings,6435,3490
+390,2023-11-08,Ronnie Murdock,67,0,UnEmployed,Weddings,9626,2435
+391,2011-01-15,Fredrick Hawkins,78,7384,Employed,Personal Use,4541,1820
+392,2024-01-28,Madeline Soler,93,6803,Employed,Traveling,6218,3188
+393,2021-08-01,Nina Boyd,99,8689,Employed,Business,1287,920
+394,2021-07-30,Eva Mui,29,9001,Employed,Medical_Expenses,4873,2747
+395,2014-08-19,Earl Hughes,40,2696,Employed,Weddings,9009,914
+396,2017-02-12,Pat Young,61,5110,Employed,Personal Use,7431,898
+397,2015-10-08,Marc Stevenson,91,3369,Employed,Emergence_Expenses,9123,2199
+398,2018-01-16,Francis Vance,44,7530,Employed,Emergence_Expenses,3764,3933
+399,2019-01-27,Michael Durant,46,8513,Employed,Business,2113,3538
+400,2012-09-29,Arthur Billingsley,94,4284,Employed,Medical_Expenses,6363,4045
+401,2020-01-03,Daniel Eurich,78,4991,Employed,Medical_Expenses,526,2662
+402,2013-06-01,Judith Campanile,98,8188,Employed,Education,4228,3052
+403,2016-10-10,Rudolph Coke,41,0,UnEmployed,Personal Use,5673,1172
+404,2010-02-07,Douglas Flores,81,2571,Employed,Business,6625,1005
+405,2013-04-13,William Johnson,21,4030,Employed,Personal Use,6672,4321
+406,2023-05-29,James Michalek,52,2430,Employed,Personal Use,1252,2717
+407,2022-12-14,Shawn Pruitt,90,0,UnEmployed,Emergence_Expenses,3630,1885
+408,2017-06-15,Daniel Parker,38,2753,Employed,Investing,2893,4473
+409,2016-05-28,Jason Allender,36,4752,Employed,Emergence_Expenses,4754,2142
+410,2012-10-31,Timothy Mellett,75,3607,Employed,Business,8341,540
+411,2021-06-23,Jeffrey Carroll,45,0,UnEmployed,Traveling,4850,1374
+412,2024-10-25,Shelley Evans,70,6143,Employed,Business,3850,4931
+413,2010-12-06,Dolores Martino,33,8261,Employed,Emergence_Expenses,8761,4410
+414,2022-04-24,William Ingram,94,7454,Employed,Weddings,9434,3433
+415,2014-08-25,James Curry,21,2365,Employed,Investing,6191,733
+416,2019-06-29,Michele Cox,80,8337,Employed,Traveling,6049,4841
+417,2012-05-03,Raymond Southard,63,7859,Employed,Personal Use,7786,659
+418,2024-04-13,Billy Hubertus,94,5758,Employed,Traveling,5847,2339
+419,2024-11-06,John Smith,33,8761,Employed,Personal Use,8268,2673
+420,2016-08-22,Robert Richardson,47,5939,Employed,Investing,8249,4121
+421,2013-11-24,Margery Fuentes,27,4988,Employed,Weddings,1497,1171
+422,2017-03-25,Ethel Johnson,59,0,UnEmployed,Weddings,897,1975
+423,2016-11-04,Barbara Biddix,29,5590,Employed,Investing,1052,3065
+424,2017-12-14,Linda Hodge,89,0,UnEmployed,Personal Use,5235,4188
+425,2019-08-12,Wesley Fye,92,3887,Employed,Medical_Expenses,6645,2936
+426,2013-06-17,Michael Davis,65,5482,Employed,Business,6788,1335
+427,2024-12-17,Madeline Scott,77,3052,Employed,Medical_Expenses,7691,896
+428,2010-01-08,William Downs,95,7776,Employed,Traveling,9275,4333
+429,2021-01-09,Richard Mcmath,38,0,UnEmployed,Personal Use,1347,1238
+430,2020-06-14,Cecil Perryman,46,2378,Employed,Business,1879,826
+431,2015-09-30,Willie Tlumacki,60,4257,Employed,Medical_Expenses,9549,3233
+432,2024-03-09,Paul Jackson,69,0,UnEmployed,Emergence_Expenses,6207,2216
+433,2019-09-21,Tammy Wilson,37,0,UnEmployed,Medical_Expenses,5852,1761
+434,2018-08-15,Alexander Henshaw,58,7637,Employed,Business,3168,645
+435,2013-11-12,Antonio Alfaro,24,7975,Employed,Business,8770,2402
+436,2019-03-01,John Young,79,5889,Employed,Business,9396,1354
+437,2019-09-09,Melissa Downing,47,4564,Employed,Medical_Expenses,5478,4210
+438,2010-06-06,Dorothy Burton,45,9370,Employed,Weddings,1638,2966
+439,2014-01-15,Karen Dukes,46,2267,Employed,Investing,9957,2800
+440,2020-07-14,Bill Phillips,88,4368,Employed,Weddings,7185,1148
+441,2020-02-16,Arlene Burger,73,0,UnEmployed,Education,8723,4947
+442,2012-08-24,William Croft,86,3410,Employed,Business,6649,2834
+443,2018-03-01,Stella Turner,24,4504,Employed,Traveling,2443,2512
+444,2023-05-23,James Clack,34,7277,Employed,Emergence_Expenses,5849,3109
+445,2023-07-05,James Hill,30,5447,Employed,Personal Use,6506,842
+446,2017-08-06,Cindy Andrade,23,0,UnEmployed,Investing,6083,2019
+447,2019-08-20,William Johnson,96,9748,Employed,Business,8710,726
+448,2022-03-18,David Moronta,23,9149,Employed,Business,5700,4193
+449,2018-10-29,Carmen Figueroa,46,0,UnEmployed,Weddings,971,902
+450,2023-09-10,Elizabeth Gregory,67,0,UnEmployed,Medical_Expenses,4270,3849
+451,2012-07-27,John Mcgroarty,37,6531,Employed,Investing,8137,4095
+452,2011-11-07,Leonard Williams,80,0,UnEmployed,Business,6236,3670
+453,2011-03-03,Barbara Banks,79,0,UnEmployed,Education,9999,1659
+454,2021-06-25,Catherine Wolfenbarger,78,2692,Employed,Investing,4315,4309
+455,2011-09-13,Ralph Hannah,66,3670,Employed,Emergence_Expenses,3279,3237
+456,2011-06-19,Nicholas White,54,7783,Employed,Traveling,1497,4125
+457,2011-03-24,Kelly Phillips,60,0,UnEmployed,Investing,2050,625
+458,2018-07-07,Don Grubbs,29,9669,Employed,Emergence_Expenses,4470,3978
+459,2022-12-28,John Middleton,51,9686,Employed,Business,9032,3801
+460,2022-04-05,Terry Gonzalez,96,3381,Employed,Investing,6654,2816
+461,2016-01-15,John Stewart,47,9728,Employed,Investing,8807,1171
+462,2014-12-23,Wayne Baker,77,0,UnEmployed,Weddings,6250,2862
+463,2012-11-04,Thomas Chennault,74,6885,Employed,Business,7926,2292
+464,2015-02-25,Mary Rogers,45,6557,Employed,Traveling,9176,3626
+465,2013-06-04,Traci Johnson,70,6746,Employed,Education,6373,1389
+466,2015-07-21,Moses Hylton,27,8377,Employed,Investing,4465,4390
+467,2022-06-30,Mark Penatac,57,4534,Employed,Traveling,7814,2615
+468,2024-01-04,David Zimmerman,48,7585,Employed,Medical_Expenses,1543,2265
+469,2023-01-01,Jennie Williams,96,4699,Employed,Medical_Expenses,2896,4393
+470,2020-05-07,Denise Wright,94,2898,Employed,Business,2087,3509
+471,2016-07-14,Mary Curd,65,0,UnEmployed,Business,2513,2946
+472,2017-09-23,George Emmons,88,4459,Employed,Education,3116,4602
+473,2016-01-31,Rhonda Loos,57,4279,Employed,Education,9271,4080
+474,2015-11-02,Kristin Davis,98,0,UnEmployed,Business,6872,1390
+475,2011-04-09,George Bryant,21,8579,Employed,Investing,5530,4728
+476,2013-10-12,Audra Mcgraw,37,8703,Employed,Weddings,2382,3300
+477,2021-08-09,Latoya Asato,96,0,UnEmployed,Business,2044,3506
+478,2010-12-24,Brenda Haley,34,0,UnEmployed,Education,1909,1523
+479,2012-03-12,Angela Malachi,48,0,UnEmployed,Emergence_Expenses,5033,2315
+480,2023-12-06,Lara Akins,33,8192,Employed,Business,628,4868
+481,2024-06-02,Wendy Jackson,77,0,UnEmployed,Emergence_Expenses,7957,4317
+482,2011-04-04,Kerry Stein,63,7173,Employed,Medical_Expenses,9502,2696
+483,2012-07-12,Angela Tanguay,72,4175,Employed,Personal Use,8953,2140
+484,2010-01-11,Harry Chandler,73,8498,Employed,Emergence_Expenses,4187,2988
+485,2012-12-02,Gerald Lane,63,0,UnEmployed,Personal Use,6772,4036
+486,2020-08-30,Fernando Simila,28,0,UnEmployed,Business,8621,2234
+487,2012-08-11,Nancy Shepherd,28,4584,Employed,Personal Use,5320,2666
+488,2013-03-22,Amber Delgadillo,57,4367,Employed,Personal Use,2787,1551
+489,2018-03-18,Daniel Widera,28,7319,Employed,Weddings,6482,3308
+490,2010-07-19,Mark Dunton,41,8225,Employed,Emergence_Expenses,9560,4639
+491,2013-08-24,Alicia Richardson,90,2157,Employed,Education,3282,4821
+492,2016-06-07,Travis Cooper,50,9439,Employed,Personal Use,6096,3009
+493,2016-09-29,Maggie Blank,52,0,UnEmployed,Education,5652,537
+494,2022-02-21,Rebecca Szeto,86,3495,Employed,Traveling,4749,4463
+495,2021-10-19,Robin Black,91,0,UnEmployed,Business,3512,4182
+496,2015-12-25,Jennifer Holland,65,6736,Employed,Medical_Expenses,3476,3621
+497,2017-08-21,Walter Foster,68,0,UnEmployed,Medical_Expenses,9499,3914
+498,2024-03-10,Matthew Hanberry,45,4086,Employed,Weddings,1056,1992
+499,2017-12-26,Stephanie Hiltz,59,0,UnEmployed,Investing,8295,1689
+500,2022-07-22,Dennis Arnold,39,4981,Employed,Weddings,5843,4497
+501,2010-12-06,Carleen Tom,63,0,UnEmployed,Emergence_Expenses,3084,988
+502,2019-12-27,Bonnie Lockett,75,3981,Employed,Business,7036,3342
+503,2011-06-16,Rodney Jamison,43,9020,Employed,Emergence_Expenses,7076,1015
+504,2014-11-13,Linda Stafford,89,6820,Employed,Medical_Expenses,1121,3228
+505,2015-02-20,John Sult,65,6525,Employed,Traveling,5686,3563
+506,2013-12-03,Neil Lumpkin,21,0,UnEmployed,Education,4389,4183
+507,2011-11-08,Phyllis Oneal,23,0,UnEmployed,Education,6746,2372
+508,2017-05-10,Anthony Winters,93,5352,Employed,Weddings,3782,1577
+509,2010-05-22,Donna Doire,21,0,UnEmployed,Traveling,3963,4735
+510,2014-10-25,Lola Stevens,25,0,UnEmployed,Personal Use,9892,4027
+511,2024-01-28,Sharika Barkley,74,6386,Employed,Education,1540,3785
+512,2024-06-09,Abraham Monson,31,8263,Employed,Business,9131,1975
+513,2016-08-17,Elsie Ward,85,0,UnEmployed,Business,7456,1616
+514,2013-08-29,Willis Fisher,30,0,UnEmployed,Emergence_Expenses,1433,2529
+515,2014-10-17,Edward Cadena,57,0,UnEmployed,Medical_Expenses,9749,1033
+516,2024-02-15,Orville Engelhart,62,0,UnEmployed,Personal Use,1783,4839
+517,2014-11-02,Ronald Sconiers,98,0,UnEmployed,Weddings,2103,3057
+518,2016-07-07,Veronica Tadych,31,0,UnEmployed,Weddings,3960,2405
+519,2021-04-14,Michele Bursley,54,6098,Employed,Investing,1228,2768
+520,2011-10-29,Joseph Jackson,46,7554,Employed,Medical_Expenses,5253,2191
+521,2022-07-08,Dennis Wright,23,6323,Employed,Weddings,1512,1604
+522,2020-02-09,Donna Quinlan,26,6999,Employed,Education,1648,2338
+523,2024-10-25,Tony Clarke,40,3586,Employed,Weddings,726,4830
+524,2023-03-10,Nicole Sherman,59,6565,Employed,Personal Use,7142,1105
+525,2012-09-04,Johnny Pearson,65,8007,Employed,Emergence_Expenses,8841,2016
+526,2023-02-04,Veronica Navarrete,26,9753,Employed,Education,4487,4574
+527,2020-02-06,Richard Johnson,25,2912,Employed,Weddings,3962,1448
+528,2023-03-15,Pablo Davis,74,6632,Employed,Personal Use,964,3780
+529,2010-03-05,Martha Coleman,35,3804,Employed,Business,5803,4168
+530,2011-03-09,Walter Kinne,66,0,UnEmployed,Education,8390,2206
+531,2017-04-14,Suzanne Fraser,61,8239,Employed,Emergence_Expenses,2692,2364
+532,2012-06-20,Kati Villalobos,85,0,UnEmployed,Weddings,1248,4694
+533,2019-06-21,Edward Brophy,29,3138,Employed,Business,9826,4973
+534,2022-07-18,Florence Johnson,79,0,UnEmployed,Investing,8702,711
+535,2016-07-16,Paul Bullock,23,3381,Employed,Business,4061,3533
+536,2019-01-04,Dorothy Sanders,83,3654,Employed,Emergence_Expenses,5330,4637
+537,2020-03-08,Curtis Benson,21,3893,Employed,Business,9905,1872
+538,2016-12-16,Heather Lane,64,7622,Employed,Personal Use,6785,1035
+539,2014-04-11,Joyce Koppenhaver,66,5236,Employed,Investing,4773,1806
+540,2022-09-02,Ruth Dinapoli,69,5958,Employed,Personal Use,550,4938
+541,2015-01-01,Helen Weston,71,6012,Employed,Emergence_Expenses,2127,3383
+542,2021-01-30,Brittany Torres,51,6453,Employed,Traveling,7278,1628
+543,2012-05-27,Virginia Drummond,33,8777,Employed,Weddings,4822,828
+544,2012-11-25,Steven Palczynski,31,6596,Employed,Education,9235,2037
+545,2011-08-09,John Martin,96,7798,Employed,Business,6790,2372
+546,2011-10-17,Donald Jones,40,2365,Employed,Investing,5624,1656
+547,2024-04-26,Johnny Allard,48,2108,Employed,Weddings,7500,2251
+548,2014-07-11,Mary Younger,87,9194,Employed,Investing,968,3340
+549,2014-12-30,Patricia Bossey,21,0,UnEmployed,Traveling,7075,2377
+550,2021-07-18,Lily Walker,41,0,UnEmployed,Education,8703,3802
+551,2010-10-04,Armando Hardesty,41,3336,Employed,Education,5791,4201
+552,2020-01-29,Shay Guerra,46,0,UnEmployed,Emergence_Expenses,5629,2371
+553,2020-10-29,Wanda Alpaugh,75,7283,Employed,Education,5687,3577
+554,2020-08-22,Shirley Vargas,37,9813,Employed,Traveling,4964,3279
+555,2012-07-22,Terrance Williams,40,8554,Employed,Emergence_Expenses,9551,4457
+556,2017-04-25,Dora Shiflett,77,4812,Employed,Business,8902,3210
+557,2023-04-30,Stanley Sanchez,90,5422,Employed,Traveling,2461,4526
+558,2012-01-16,Donny Dick,77,5224,Employed,Education,712,3065
+559,2017-07-08,Daniel Ehrlich,90,0,UnEmployed,Traveling,3592,2195
+560,2016-04-30,Geneva Butler,62,6314,Employed,Medical_Expenses,5594,2185
+561,2023-07-06,Elaine Greely,31,6588,Employed,Business,4773,1259
+562,2017-09-20,Donald Miller,37,5406,Employed,Weddings,5445,1370
+563,2014-06-12,Kelly Lamoureux,85,5800,Employed,Weddings,1306,2304
+564,2012-07-17,David Slough,85,9260,Employed,Investing,7512,3271
+565,2013-10-09,Ethel Cavalero,50,5782,Employed,Traveling,1177,2524
+566,2023-06-25,Catherine Guest,57,4756,Employed,Education,1086,4660
+567,2017-10-27,Fabian Frank,72,7534,Employed,Traveling,9373,3311
+568,2024-02-07,Rebecca Muniz,40,0,UnEmployed,Personal Use,2230,3802
+569,2012-07-23,Michael Mcminn,74,5443,Employed,Personal Use,3387,4344
+570,2011-08-25,Carole Johnson,40,7174,Employed,Emergence_Expenses,9376,3404
+571,2024-04-13,Jennifer Mead,75,2926,Employed,Medical_Expenses,7043,3885
+572,2012-06-28,Ashley Williams,65,8923,Employed,Business,8553,2979
+573,2017-12-06,Sophie Donaldson,75,5093,Employed,Education,4716,924
+574,2019-06-16,Thomas Schneck,97,3533,Employed,Weddings,2122,759
+575,2015-02-27,Jean Crowley,57,6760,Employed,Investing,9143,2032
+576,2012-11-19,William Lambert,49,4533,Employed,Emergence_Expenses,3440,2098
+577,2018-04-14,Deborah Kravitz,56,0,UnEmployed,Medical_Expenses,2750,4852
+578,2020-08-28,Maria Heyman,91,6698,Employed,Personal Use,527,1385
+579,2011-07-14,James Soo,63,4261,Employed,Business,2702,639
+580,2012-01-25,Phillis Mattioli,55,5031,Employed,Weddings,3314,4782
+581,2010-05-30,Jennifer Sargent,60,5159,Employed,Personal Use,2006,811
+582,2012-11-09,Paul Schwartz,46,0,UnEmployed,Business,7770,3755
+583,2020-05-02,Jessica Lynn,85,0,UnEmployed,Business,9274,4885
+584,2017-05-03,Terry Givens,54,3977,Employed,Education,4025,1739
+585,2010-09-29,Coleman Ritter,62,6451,Employed,Weddings,1303,4878
+586,2010-09-01,Louis Camargo,62,8670,Employed,Traveling,4755,3514
+587,2024-05-12,Kelly Betterman,26,0,UnEmployed,Traveling,1748,1220
+588,2024-01-29,Paul Pagano,88,6883,Employed,Education,1370,2897
+589,2014-08-17,Michael Jackson,26,4691,Employed,Business,3868,1831
+590,2016-03-08,Barbara Shippey,25,4218,Employed,Business,3316,4722
+591,2013-10-18,Doris Hilliard,73,8196,Employed,Investing,7202,4693
+592,2016-09-09,Steven Johnson,94,0,UnEmployed,Business,8775,3407
+593,2019-04-15,Kathleen Larkins,50,0,UnEmployed,Weddings,3000,3605
+594,2018-10-15,Marie Hill,74,3119,Employed,Weddings,7638,3444
+595,2014-06-03,Lashawn Leahy,40,6462,Employed,Investing,8940,2057
+596,2017-07-22,Jennifer Deshong,85,2380,Employed,Weddings,1827,2259
+597,2021-11-17,Barbara Hurst,52,0,UnEmployed,Investing,5531,2052
+598,2021-07-26,Christian Addison,95,4787,Employed,Medical_Expenses,824,781
+599,2020-05-28,Mary Mccabe,97,3528,Employed,Personal Use,9965,3548
+600,2014-09-08,Carolyn Redmond,65,8313,Employed,Traveling,3398,3624
+601,2014-08-24,Sharon Smith,60,0,UnEmployed,Medical_Expenses,3174,4776
+602,2010-10-26,Alexis Chatcho,89,2450,Employed,Investing,6589,3631
+603,2017-10-16,Stacy Hoefert,62,8180,Employed,Weddings,8477,1879
+604,2024-05-13,Robert Gambone,50,0,UnEmployed,Traveling,4553,2685
+605,2020-11-10,Roberta Mcfarland,60,5008,Employed,Education,9602,1377
+606,2011-04-19,Genevieve Bland,67,6923,Employed,Business,5542,3863
+607,2010-01-08,Laura Collazo,42,0,UnEmployed,Weddings,2417,3447
+608,2016-04-03,Charles Rief,52,9921,Employed,Traveling,4020,4213
+609,2015-03-10,Lillie Cobb,98,5306,Employed,Personal Use,9320,2094
+610,2015-04-08,Berneice Barnhill,33,3189,Employed,Personal Use,8073,3469
+611,2016-01-07,Elizabeth Beachler,94,6897,Employed,Medical_Expenses,2035,3921
+612,2022-06-19,Cameron Nelson,37,9597,Employed,Business,5470,4838
+613,2010-04-19,Timothy Jacobs,39,0,UnEmployed,Weddings,5947,3277
+614,2018-11-03,Marge Montney,70,4712,Employed,Emergence_Expenses,6579,2070
+615,2023-12-27,Mark Mills,28,4550,Employed,Business,5599,4122
+616,2015-04-16,Regina Alvarez,66,3677,Employed,Education,3180,1213
+617,2013-03-09,Verline Partington,42,9827,Employed,Medical_Expenses,8833,1117
+618,2024-03-18,Gladys Baker,70,9323,Employed,Medical_Expenses,3248,1031
+619,2015-09-09,Mabel Ross,44,9630,Employed,Education,4532,2367
+620,2017-10-29,Ann Mcgowan,72,2874,Employed,Emergence_Expenses,8267,1809
+621,2019-04-19,Raymond Glasby,49,9647,Employed,Traveling,2510,3111
+622,2023-01-22,Herman Ray,25,0,UnEmployed,Business,7981,1590
+623,2021-11-03,Pamela Miller,63,8588,Employed,Education,2931,4970
+624,2023-01-19,Gloria Lowrie,78,9926,Employed,Medical_Expenses,1037,1499
+625,2022-11-08,Deangelo Martinez,33,9065,Employed,Emergence_Expenses,781,2620
+626,2019-08-18,Wayne Dupas,26,4485,Employed,Investing,5406,4775
+627,2022-04-30,Randi Delgado,61,9126,Employed,Medical_Expenses,4026,2293
+628,2020-02-19,Elizabeth Truong,90,6110,Employed,Investing,9080,905
+629,2023-12-30,Joe Vaillancourt,37,3126,Employed,Traveling,7928,3308
+630,2019-12-17,Royal Jackson,62,3046,Employed,Business,4269,1269
+631,2012-08-17,Robin Hale,65,4823,Employed,Business,9539,1603
+632,2019-01-19,Rita Samples,40,8631,Employed,Education,872,1481
+633,2011-10-27,Jeffrey Thompson,68,2492,Employed,Weddings,2420,2113
+634,2010-12-05,Hong Oswald,57,2305,Employed,Emergence_Expenses,1298,4391
+635,2021-09-09,Aaron Corbett,93,5031,Employed,Traveling,4946,2468
+636,2023-02-03,Anne Willian,58,2484,Employed,Business,4153,2125
+637,2015-03-01,Martha Guy,47,7310,Employed,Emergence_Expenses,4639,1395
+638,2017-10-20,Judy Bello,33,0,UnEmployed,Weddings,5708,2876
+639,2016-07-26,Alan Smyth,74,2301,Employed,Medical_Expenses,1577,3313
+640,2013-03-13,Kori Caplan,43,6710,Employed,Personal Use,2499,2185
+641,2024-09-28,Paula Crosby,93,8340,Employed,Emergence_Expenses,3738,732
+642,2013-08-26,Christopher Gordon,74,6359,Employed,Education,7862,2343
+643,2024-11-07,Regina Steward,65,0,UnEmployed,Weddings,9267,3588
+644,2021-02-13,Samuel Tackett,46,2494,Employed,Emergence_Expenses,5139,4883
+645,2022-11-15,Mike Thomas,40,0,UnEmployed,Medical_Expenses,3435,784
+646,2012-07-22,Josephine Christenson,57,6867,Employed,Personal Use,8890,781
+647,2020-08-09,June Martin,63,4225,Employed,Weddings,1686,3297
+648,2014-09-05,Ana Collins,59,8144,Employed,Traveling,8428,4875
+649,2020-07-06,Stephen Thompson,26,9589,Employed,Emergence_Expenses,7823,2946
+650,2015-01-17,Nancy Fletcher,36,9422,Employed,Medical_Expenses,6535,1265
+651,2023-01-19,William Scott,42,7796,Employed,Business,6352,2508
+652,2019-11-03,Charles Robinson,62,3696,Employed,Medical_Expenses,7005,1445
+653,2019-01-09,Bernard Brock,42,7459,Employed,Business,4950,1161
+654,2012-07-10,Kim Degraffenreid,71,4710,Employed,Personal Use,585,2489
+655,2013-07-24,Catherine Anderson,39,8801,Employed,Personal Use,1858,3728
+656,2020-04-24,Karen Artman,90,2932,Employed,Investing,684,3319
+657,2024-08-11,Seth Inoue,35,9715,Employed,Business,2708,1560
+658,2020-08-08,Elizabeth Goldsmith,86,0,UnEmployed,Weddings,3710,1683
+659,2019-02-23,George Flickner,73,4556,Employed,Personal Use,9490,1355
+660,2024-04-20,Janet Henson,30,7790,Employed,Education,6731,2312
+661,2018-12-25,Mary Lewis,99,0,UnEmployed,Education,1450,4447
+662,2019-05-31,Frank Drennan,90,9087,Employed,Weddings,6519,4023
+663,2015-08-07,Bernice Soltys,55,5751,Employed,Weddings,1707,2657
+664,2016-06-22,Erin Ross,88,7159,Employed,Personal Use,2027,2171
+665,2022-04-06,Tommie Mullins,56,2034,Employed,Business,4845,3880
+666,2019-01-22,Ericka Hemstreet,67,0,UnEmployed,Personal Use,8917,2097
+667,2022-12-22,Joe Beaty,21,3521,Employed,Medical_Expenses,2583,3457
+668,2024-07-04,Carrie Kropf,25,6215,Employed,Business,4467,1435
+669,2019-03-24,Leo Singleton,30,0,UnEmployed,Investing,8987,4399
+670,2014-09-10,Debra Schoberg,93,0,UnEmployed,Weddings,1576,4920
+671,2018-12-09,Gary Pinales,97,4231,Employed,Education,3865,2468
+672,2012-11-30,Isabel Mitchell,90,8245,Employed,Business,1290,2841
+673,2012-06-25,Ken Watkins,40,2714,Employed,Personal Use,9005,1069
+674,2010-07-01,Christopher Dale,29,2014,Employed,Weddings,4335,3036
+675,2023-10-13,Erma Dorch,22,9836,Employed,Business,6554,2242
+676,2016-10-15,Manuel Thompson,82,8458,Employed,Emergence_Expenses,8154,3534
+677,2017-01-19,Sheila Primus,22,7863,Employed,Traveling,7337,1712
+678,2018-12-23,Gail Mitchell,71,0,UnEmployed,Weddings,3377,4909
+679,2020-06-24,Raul Thacker,54,4741,Employed,Emergence_Expenses,9684,4574
+680,2017-09-07,Stephen Emanuel,81,7687,Employed,Personal Use,7143,3661
+681,2023-04-12,John Bishop,72,4276,Employed,Medical_Expenses,6022,3625
+682,2024-01-20,Richard Lenhardt,67,7396,Employed,Education,8939,570
+683,2017-01-03,Charles Clark,82,0,UnEmployed,Medical_Expenses,2446,1546
+684,2021-04-30,Mark Schall,66,5995,Employed,Investing,4502,4145
+685,2023-07-23,Victor Jones,63,5542,Employed,Investing,8781,4406
+686,2017-07-27,Wayne Ibara,97,9301,Employed,Medical_Expenses,7153,4131
+687,2011-03-28,Karen Mccarthy,96,3070,Employed,Weddings,6682,3521
+688,2018-12-03,Jacque Slough,77,0,UnEmployed,Personal Use,9577,4263
+689,2012-06-03,Mary Sanders,46,6847,Employed,Traveling,6251,1303
+690,2021-09-18,Wendell Barber,60,3235,Employed,Traveling,8991,4594
+691,2019-02-17,Christy Mayes,39,0,UnEmployed,Business,7232,3609
+692,2016-08-12,Bryant Brooks,92,0,UnEmployed,Emergence_Expenses,6549,4306
+693,2018-08-11,Darryl Alston,89,0,UnEmployed,Education,1727,1060
+694,2015-03-24,Kelvin Valencia,44,7844,Employed,Traveling,2600,903
+695,2012-11-21,Charles Cyphers,43,3061,Employed,Medical_Expenses,3564,1019
+696,2013-02-14,Adam Hernandez,73,0,UnEmployed,Personal Use,7521,2567
+697,2017-10-26,Margert Thibodeau,48,5772,Employed,Personal Use,8737,1057
+698,2018-11-02,Allan Findley,82,3199,Employed,Investing,1366,848
+699,2024-10-29,Jason Brown,61,7002,Employed,Medical_Expenses,2890,2425
+700,2012-11-22,Vanessa Williams,38,2031,Employed,Education,3108,4313
+701,2021-01-01,Lucy Brown,25,0,UnEmployed,Weddings,2319,2790
+702,2019-09-15,Louise Young,91,2212,Employed,Traveling,9050,3752
+703,2019-11-02,Bobby Bud,28,2882,Employed,Personal Use,2799,1596
+704,2012-08-09,Helene Maize,89,3100,Employed,Business,9137,4390
+705,2018-03-06,Kenneth Jamison,48,9232,Employed,Business,6912,4285
+706,2017-10-21,James Buckhalter,96,2006,Employed,Investing,7054,3924
+707,2021-08-22,Dustin Miller,82,7974,Employed,Medical_Expenses,8211,4511
+708,2018-08-24,Elizabeth Isbell,60,8797,Employed,Traveling,8883,4926
+709,2012-08-28,Ernest Villarreal,60,9792,Employed,Business,8752,1103
+710,2018-09-03,Nathan Stewart,49,2324,Employed,Traveling,3865,1383
+711,2019-11-21,Harry Sanchez,51,0,UnEmployed,Medical_Expenses,9947,3068
+712,2015-12-28,Chris Ross,92,4327,Employed,Education,6775,2562
+713,2013-08-03,Joseph Schulle,77,3502,Employed,Business,1540,2220
+714,2024-01-24,Jay Garrett,59,2357,Employed,Business,2500,670
+715,2018-09-06,Cindy Ford,32,0,UnEmployed,Traveling,5055,4620
+716,2010-07-11,Donald Hayes,64,7970,Employed,Traveling,1994,818
+717,2017-04-24,Fred Collett,80,6511,Employed,Traveling,1344,724
+718,2011-06-02,Royce Phillips,33,9756,Employed,Education,1357,4702
+719,2010-06-30,Marvin Goss,42,7738,Employed,Medical_Expenses,4188,2058
+720,2022-08-05,Kisha Ratcliff,39,7473,Employed,Education,7705,2024
+721,2019-12-11,Buford Clements,71,8804,Employed,Traveling,3879,1572
+722,2021-02-07,Frank Gillis,73,5412,Employed,Weddings,4693,4781
+723,2023-10-02,Carolyn Watson,71,7672,Employed,Investing,9842,1319
+724,2011-01-13,Cassandra Merryman,80,8141,Employed,Business,1318,3395
+725,2013-09-02,Sabina Bottorff,56,8790,Employed,Personal Use,4973,1441
+726,2015-08-01,Nancy Black,34,4556,Employed,Personal Use,5873,3009
+727,2017-12-26,Mark Diberardino,89,3160,Employed,Personal Use,2718,1172
+728,2010-07-14,Cathy King,67,3384,Employed,Education,2594,1973
+729,2010-08-25,Randi Litchford,69,8396,Employed,Investing,766,3058
+730,2020-08-03,Albert Widger,76,0,UnEmployed,Personal Use,8120,2081
+731,2011-08-21,Kristin Johnson,36,7136,Employed,Business,8494,2410
+732,2010-10-21,John Lee,89,7722,Employed,Business,5677,2811
+733,2024-12-18,Joseph Bukovsky,94,9222,Employed,Education,6881,4665
+734,2011-10-11,Ann Haigler,56,3029,Employed,Education,8072,4838
+735,2019-04-20,Frances Manns,47,2849,Employed,Medical_Expenses,7024,1337
+736,2013-01-15,Kay Venkus,98,3646,Employed,Personal Use,5951,3477
+737,2023-05-12,Tammy Barber,33,6259,Employed,Emergence_Expenses,6179,4001
+738,2024-12-31,Allene Corrieri,31,9142,Employed,Business,6613,4129
+739,2017-06-17,Eduardo Roesser,21,8654,Employed,Education,5894,4700
+740,2016-04-07,Teresa Davis,82,8110,Employed,Investing,3460,4481
+741,2017-08-08,Sean Lout,58,4516,Employed,Weddings,1707,1901
+742,2019-05-20,Daphne Malley,58,0,UnEmployed,Traveling,2380,821
+743,2023-10-26,Marilou Levites,97,6906,Employed,Weddings,9750,3880
+744,2024-11-27,James Clark,62,3090,Employed,Personal Use,9679,2046
+745,2017-01-05,Brian Pescatore,33,3331,Employed,Education,6862,4133
+746,2024-06-02,Roger Tobin,58,9264,Employed,Emergence_Expenses,9693,3630
+747,2017-08-23,Frances Garay,75,8837,Employed,Business,8633,1252
+748,2011-06-05,Rich Moore,78,9521,Employed,Personal Use,9627,2927
+749,2017-07-29,Angela Mclemore,60,6825,Employed,Weddings,4227,4308
+750,2017-12-24,Alice Coon,69,0,UnEmployed,Emergence_Expenses,3279,3313
+751,2016-10-25,Kerry Parks,26,7340,Employed,Business,6099,2177
+752,2023-03-18,Courtney Hooper,57,0,UnEmployed,Business,1857,1075
+753,2022-05-03,Angela Carter,80,3363,Employed,Education,8105,3263
+754,2024-09-11,Joanna Moore,74,5191,Employed,Education,8307,3940
+755,2010-10-05,Susan Morin,71,7456,Employed,Weddings,6353,2113
+756,2011-07-27,Raphael Villanueva,83,0,UnEmployed,Personal Use,3983,1311
+757,2021-10-29,Willie Holder,41,9835,Employed,Weddings,2795,3559
+758,2020-08-31,Laura Larson,99,0,UnEmployed,Weddings,895,2203
+759,2015-06-08,Christina Stevens,70,9368,Employed,Weddings,5655,1823
+760,2011-04-28,Willie Hill,45,7975,Employed,Traveling,4334,2144
+761,2015-05-14,Michelle Nageotte,65,0,UnEmployed,Personal Use,8030,2693
+762,2010-02-26,Jeremy Lauritsen,22,9602,Employed,Traveling,5624,1194
+763,2022-09-10,Nancy Ripp,30,9669,Employed,Education,8642,4893
+764,2012-01-20,Kathleen Norris,61,0,UnEmployed,Traveling,9549,2197
+765,2019-11-22,Robert Williams,60,8174,Employed,Personal Use,3999,4196
+766,2011-11-20,Jerry Hamilton,76,2183,Employed,Personal Use,5250,4045
+767,2023-10-18,Fernando Good,78,4165,Employed,Investing,9658,3890
+768,2024-09-21,Anita Hoover,82,6458,Employed,Investing,1620,2694
+769,2011-01-05,Michael Christ,64,0,UnEmployed,Business,1635,3993
+770,2016-09-09,Betty Espinoza,91,4075,Employed,Emergence_Expenses,1162,1591
+771,2014-08-06,Randall Raymond,52,4091,Employed,Emergence_Expenses,6749,3054
+772,2018-07-11,Eddie Stanley,32,7772,Employed,Medical_Expenses,1259,4803
+773,2024-10-23,Douglas Thompson,58,0,UnEmployed,Personal Use,1782,2724
+774,2019-02-28,Marjorie Day,25,3570,Employed,Traveling,6203,1324
+775,2012-02-17,Daren Bullinger,44,4319,Employed,Investing,9045,4011
+776,2015-06-12,Fredrick Hill,52,5240,Employed,Traveling,843,3934
+777,2020-02-05,Trent Brookskennedy,60,5632,Employed,Weddings,9477,2498
+778,2020-12-03,David Shoaf,62,2842,Employed,Personal Use,7329,4969
+779,2011-08-22,Kenneth Coughlin,70,5545,Employed,Personal Use,6604,4452
+780,2019-11-23,Michael Blanco,21,0,UnEmployed,Personal Use,2741,1027
+781,2015-08-23,John Franks,73,8207,Employed,Traveling,830,4793
+782,2010-04-29,Norman Cronin,32,9218,Employed,Business,8195,4811
+783,2021-07-25,Phillip Fierro,72,6674,Employed,Education,6155,921
+784,2011-06-08,Nicki Watts,98,0,UnEmployed,Medical_Expenses,6364,4287
+785,2015-03-17,Clelia Buffalo,34,6205,Employed,Investing,4098,735
+786,2015-02-28,William Crawford,97,3824,Employed,Education,8762,808
+787,2022-11-14,Darlene Crawford,66,8177,Employed,Investing,5376,4755
+788,2018-07-03,John Balderrama,67,8454,Employed,Investing,9752,1965
+789,2019-06-06,Timothy Monroe,92,0,UnEmployed,Emergence_Expenses,653,720
+790,2018-08-28,Morgan Pennington,98,6477,Employed,Weddings,7238,2743
+791,2012-12-25,Joshua Jacques,52,2380,Employed,Emergence_Expenses,1818,4190
+792,2016-01-01,Charles Meister,83,7466,Employed,Emergence_Expenses,8851,3191
+793,2012-04-27,Molly Kitanik,71,2586,Employed,Education,9443,601
+794,2022-09-28,Johnnie Vineyard,21,0,UnEmployed,Traveling,9782,1688
+795,2023-01-12,Thelma Thompson,89,0,UnEmployed,Business,8219,4604
+796,2021-05-10,Samuel Skinnen,25,8567,Employed,Education,9779,3632
+797,2015-08-26,Frederick Gartner,78,3346,Employed,Medical_Expenses,1541,2530
+798,2014-08-09,Raymond Rojas,64,0,UnEmployed,Investing,4240,2345
+799,2013-10-05,Toby Devera,22,7919,Employed,Emergence_Expenses,5755,2293
+800,2010-01-11,Ruby Kendrick,84,0,UnEmployed,Personal Use,780,4686
+801,2024-06-11,Jan Fitzgerald,76,0,UnEmployed,Personal Use,5871,3867
+802,2017-08-14,Doris Wai,88,3062,Employed,Medical_Expenses,7970,806
+803,2017-10-28,Karen Enoch,40,6690,Employed,Education,8023,2609
+804,2021-01-16,Diane Marsh,80,4960,Employed,Investing,8078,2165
+805,2016-01-08,Joe Culnane,22,3056,Employed,Emergence_Expenses,6831,1841
+806,2021-03-05,Elbert Meisner,35,0,UnEmployed,Medical_Expenses,4446,1811
+807,2024-01-03,Ruth Ha,63,0,UnEmployed,Medical_Expenses,2684,992
+808,2017-05-29,Phyllis Brunson,30,5503,Employed,Weddings,7471,4629
+809,2024-12-10,Eugene Weinman,88,9992,Employed,Emergence_Expenses,2722,2698
+810,2014-03-11,Sheryl Bowles,90,3186,Employed,Emergence_Expenses,3258,2756
+811,2019-08-25,Sarah Young,84,3952,Employed,Medical_Expenses,4190,1052
+812,2022-11-30,Jane Overlock,73,8104,Employed,Emergence_Expenses,5937,4902
+813,2015-09-03,Richard France,34,8952,Employed,Medical_Expenses,1532,571
+814,2021-06-01,Robert Teodoro,45,0,UnEmployed,Business,3619,2069
+815,2014-11-28,Stephen Carpenter,73,8808,Employed,Weddings,3516,4795
+816,2023-07-31,Christopher Hensley,24,6415,Employed,Emergence_Expenses,7932,1438
+817,2016-03-09,Kelly Gonzales,48,6280,Employed,Emergence_Expenses,1808,2558
+818,2023-07-30,Calvin Pathak,63,6906,Employed,Business,3132,1875
+819,2017-08-27,Nancy Porter,42,8877,Employed,Business,6026,3396
+820,2022-10-06,Javier Chapmon,29,0,UnEmployed,Investing,7762,2833
+821,2010-01-28,Selma Rogers,65,6332,Employed,Education,2904,2440
+822,2011-08-18,Brittani Rademacher,89,6453,Employed,Personal Use,6519,3209
+823,2017-11-24,Jeffrey Neal,81,4686,Employed,Personal Use,3484,4079
+824,2010-08-28,Tanya Castle,29,8148,Employed,Investing,5021,2392
+825,2014-10-19,Julius Murgia,69,6948,Employed,Education,678,520
+826,2015-09-19,Ryan Strasser,55,2860,Employed,Business,2879,3798
+827,2016-10-10,Dorothy Chidester,88,3927,Employed,Investing,4609,1628
+828,2016-11-12,Gina Yuengling,89,4825,Employed,Personal Use,1456,870
+829,2023-04-16,Zane Johnson,91,0,UnEmployed,Traveling,4637,2775
+830,2010-11-28,Sharee Fernandez,81,2854,Employed,Medical_Expenses,3746,3891
+831,2024-11-12,Reginald Owens,47,0,UnEmployed,Traveling,8674,4308
+832,2024-03-30,Julian Barbeau,49,2604,Employed,Business,653,4913
+833,2014-01-08,Victoria Innis,67,5503,Employed,Medical_Expenses,5381,1912
+834,2012-08-01,Richard West,32,4484,Employed,Business,3943,3926
+835,2013-02-06,Genevieve Burgos,86,8667,Employed,Traveling,5595,3661
+836,2014-10-03,Eric Simmons,65,0,UnEmployed,Investing,1677,1537
+837,2017-09-15,Cecelia Brown,88,6190,Employed,Traveling,3084,4351
+838,2014-10-23,Alicia Adams,72,9874,Employed,Medical_Expenses,9679,4221
+839,2022-02-19,Catherine Morgan,64,8666,Employed,Education,2042,3697
+840,2024-07-11,Louise Sisco,38,4490,Employed,Medical_Expenses,8448,1197
+841,2022-05-17,Gretchen Taylor,23,8818,Employed,Investing,4871,1121
+842,2016-12-31,Edward Ayala,58,2526,Employed,Weddings,3011,4121
+843,2024-09-12,Kathryn Pach,29,2053,Employed,Traveling,5317,1960
+844,2015-10-19,James Watkins,26,3623,Employed,Medical_Expenses,4591,1909
+845,2010-03-07,Henry Summers,52,9368,Employed,Investing,5727,687
+846,2023-08-11,William Murphy,53,0,UnEmployed,Personal Use,1178,908
+847,2016-02-20,Mari Moreno,58,9643,Employed,Business,9801,1135
+848,2013-10-18,Daisy Kunert,26,2233,Employed,Investing,4795,2814
+849,2013-03-21,Edwin Salazar,66,5871,Employed,Medical_Expenses,1604,4720
+850,2022-04-15,Linda Hall,40,0,UnEmployed,Medical_Expenses,2198,4790
+851,2020-12-09,Marcos Dearcos,88,2617,Employed,Education,6691,3065
+852,2015-05-09,Karen Smith,59,0,UnEmployed,Traveling,2496,4421
+853,2011-06-15,Chris Bragg,52,5021,Employed,Personal Use,5119,869
+854,2019-06-12,Barbara Hepler,44,9980,Employed,Investing,2637,746
+855,2023-11-12,Richard Hamilton,72,7238,Employed,Medical_Expenses,8962,4356
+856,2011-04-17,Blanche Howard,68,0,UnEmployed,Business,2360,2599
+857,2024-08-10,Bonnie Smalley,94,2029,Employed,Emergence_Expenses,9932,753
+858,2014-10-16,Eula Riley,25,6108,Employed,Traveling,9827,4628
+859,2017-12-01,Jerry Feller,55,5838,Employed,Emergence_Expenses,3433,4936
+860,2012-06-25,Jo Sneller,64,9378,Employed,Weddings,1815,3038
+861,2021-07-31,David Karp,30,3312,Employed,Investing,2034,2846
+862,2012-01-22,Marva Duffey,57,6533,Employed,Education,9294,3256
+863,2019-07-03,Derrick Watts,23,7450,Employed,Medical_Expenses,3279,4210
+864,2017-05-10,Edward Stewart,91,7419,Employed,Education,1620,4784
+865,2011-07-16,James Sherrow,58,0,UnEmployed,Medical_Expenses,8498,1333
+866,2010-12-23,Gale Villafana,79,4438,Employed,Emergence_Expenses,7463,3381
+867,2013-07-02,Patricia Mosby,39,4491,Employed,Emergence_Expenses,1948,842
+868,2012-11-06,Melissa Little,97,6676,Employed,Weddings,3914,3626
+869,2023-08-22,Kevin Lorenzo,97,0,UnEmployed,Personal Use,5233,1535
+870,2022-01-12,Mercedes Bernard,90,5885,Employed,Medical_Expenses,5197,3648
+871,2024-01-11,Maria Cruse,53,0,UnEmployed,Medical_Expenses,9727,4148
+872,2019-11-25,Sarah Fenner,94,8703,Employed,Emergence_Expenses,6931,4865
+873,2023-12-28,Mary Hersha,63,0,UnEmployed,Personal Use,8926,3586
+874,2023-11-10,Virginia Alvarez,70,2039,Employed,Emergence_Expenses,6492,1741
+875,2021-12-19,Angela Mendoza,78,0,UnEmployed,Investing,9076,3466
+876,2017-11-07,John Watson,44,0,UnEmployed,Personal Use,5081,921
+877,2014-12-11,Howard Regnier,55,5928,Employed,Weddings,5217,4127
+878,2020-04-22,Brian Hoffman,69,2033,Employed,Traveling,9623,2903
+879,2020-10-19,Megan Winkel,47,5996,Employed,Traveling,580,2715
+880,2024-03-01,Lauralee Wood,79,3136,Employed,Traveling,2338,3637
+881,2020-08-15,Jack Reyes,95,2393,Employed,Traveling,7593,3232
+882,2019-02-01,John Bridgeman,97,4482,Employed,Weddings,9403,3443
+883,2016-11-25,John Rosenthal,41,6016,Employed,Weddings,8112,3715
+884,2010-11-12,Alicia Young,21,6230,Employed,Business,8042,1128
+885,2012-11-16,Jeannette Chisolm,89,7372,Employed,Medical_Expenses,7274,3769
+886,2011-11-12,Rita Bryan,74,9301,Employed,Business,8627,944
+887,2011-10-27,Candis Doty,81,9432,Employed,Medical_Expenses,6489,2842
+888,2023-07-20,Matthew Porter,89,9795,Employed,Education,8262,2604
+889,2018-02-25,James Burton,25,4000,Employed,Traveling,7251,3258
+890,2021-07-09,Eugene Raab,36,0,UnEmployed,Education,9173,4035
+891,2020-07-29,Paulette Ortega,51,0,UnEmployed,Investing,4641,4246
+892,2014-01-16,Berta Hollins,69,5126,Employed,Business,4665,3270
+893,2011-10-10,Christopher Anselmo,30,0,UnEmployed,Personal Use,8606,2617
+894,2024-11-15,Ruth Davis,85,8678,Employed,Business,2774,4089
+895,2017-12-15,Corazon Maynard,82,7377,Employed,Business,1289,4297
+896,2020-06-17,Dale Patete,47,5098,Employed,Medical_Expenses,8489,4681
+897,2017-12-06,John Helland,49,3431,Employed,Investing,7028,3739
+898,2011-10-06,Michelle Hutter,50,0,UnEmployed,Traveling,2169,2194
+899,2022-09-05,Margaret Brown,36,9019,Employed,Weddings,8139,4415
+900,2019-06-27,Tomi Lingbeek,76,8254,Employed,Weddings,5947,2323
+901,2023-05-29,James Capps,71,3417,Employed,Personal Use,3619,1240
+902,2016-09-03,George Bingham,48,5801,Employed,Investing,9585,4669
+903,2016-11-14,Richard Hollis,84,5006,Employed,Weddings,5221,732
+904,2018-11-11,Cheryl Aguilar,70,0,UnEmployed,Personal Use,9024,1074
+905,2015-03-24,Theresa Brown,88,0,UnEmployed,Medical_Expenses,2733,4797
+906,2023-01-26,Bradley Martinez,95,8301,Employed,Emergence_Expenses,8645,1688
+907,2017-09-08,Laurie Shepard,81,0,UnEmployed,Emergence_Expenses,3927,1539
+908,2019-01-20,David Wemmer,21,0,UnEmployed,Personal Use,2613,990
+909,2021-08-25,Isabel Aquino,58,2342,Employed,Education,3770,1329
+910,2012-08-14,Armando Cioffi,29,8457,Employed,Medical_Expenses,9939,4065
+911,2021-01-09,Edwin Kubica,26,2707,Employed,Education,4599,1510
+912,2020-05-09,Maria Hepler,24,4197,Employed,Medical_Expenses,7021,612
+913,2016-12-12,Kay Frank,39,9977,Employed,Investing,7184,1475
+914,2016-12-05,Glenn Vallejo,42,0,UnEmployed,Business,9992,1312
+915,2014-09-27,Alice Stankiewicz,24,0,UnEmployed,Business,5728,3341
+916,2014-09-22,Troy Roman,96,4874,Employed,Traveling,7576,3962
+917,2017-06-22,Linda Causey,82,9428,Employed,Investing,8428,2330
+918,2024-06-19,Richard Stedman,37,9349,Employed,Education,4070,1411
+919,2021-06-02,Albert Williams,69,9452,Employed,Investing,1868,4469
+920,2014-05-31,Calvin Collins,84,9265,Employed,Personal Use,6322,4810
+921,2021-05-06,Charles Royer,56,5977,Employed,Weddings,7260,1946
+922,2018-05-21,Michael Ayre,58,6121,Employed,Emergence_Expenses,1288,2749
+923,2011-09-16,Norma Bennett,69,7079,Employed,Weddings,2131,2733
+924,2020-03-09,Harvey Rutter,90,0,UnEmployed,Traveling,4111,4644
+925,2018-02-08,Carolyn Castellanos,32,4739,Employed,Medical_Expenses,2440,3059
+926,2015-08-14,Matthew Betts,67,0,UnEmployed,Traveling,4017,1721
+927,2021-06-20,Barbara Harvey,33,0,UnEmployed,Medical_Expenses,4018,4894
+928,2012-12-28,Lou Ditman,47,9805,Employed,Investing,3762,4889
+929,2024-06-22,Kenneth Johnson,37,0,UnEmployed,Business,6406,1029
+930,2014-01-10,Terry Banning,38,2841,Employed,Investing,2866,610
+931,2024-02-08,Corey Raderstorf,82,7723,Employed,Medical_Expenses,3183,3445
+932,2013-05-26,Eugene Truesdale,35,7135,Employed,Personal Use,9473,1081
+933,2024-01-17,Elizabeth Horowitz,67,3250,Employed,Investing,9784,4498
+934,2023-02-04,Ruby Duarte,33,9752,Employed,Investing,9317,2152
+935,2014-11-20,Nancy Cannon,54,6124,Employed,Business,1108,4442
+936,2010-12-24,John Lopze,99,3591,Employed,Education,9058,2394
+937,2014-11-04,Theresa Hasson,40,9751,Employed,Business,4227,1675
+938,2023-03-05,Grisel Tew,59,4067,Employed,Emergence_Expenses,9039,2865
+939,2017-12-18,Eileen Kulesa,52,7206,Employed,Business,5488,3859
+940,2023-02-05,Joann Melendez,43,6261,Employed,Business,7117,1371
+941,2021-04-17,Alex Fenstermacher,75,8814,Employed,Traveling,7260,3116
+942,2022-11-20,Kimberly Jenkins,41,8795,Employed,Weddings,9555,2279
+943,2021-06-22,Mark Tanner,66,3899,Employed,Investing,6298,1210
+944,2011-07-25,Ida Obermeyer,78,6396,Employed,Investing,2828,1360
+945,2010-04-18,Rita Trammell,28,2016,Employed,Personal Use,3029,1010
+946,2020-07-16,Joseph Gaston,27,8240,Employed,Business,2124,4373
+947,2010-02-06,Opal Jackson,79,0,UnEmployed,Personal Use,4565,4848
+948,2024-08-25,Mable Volpe,63,7073,Employed,Weddings,5819,1767
+949,2017-04-29,Yvonne Leyendecker,39,9550,Employed,Weddings,5307,4082
+950,2010-06-19,James Hernandez,66,7870,Employed,Investing,6077,1451
+951,2016-04-07,Tracy Garner,55,7978,Employed,Traveling,3051,4476
+952,2012-05-12,Sonja Luzar,24,4703,Employed,Medical_Expenses,1819,3623
+953,2019-10-27,Maria Zimmerman,94,5692,Employed,Emergence_Expenses,8735,2184
+954,2024-02-28,Robert Harris,47,7962,Employed,Weddings,9028,2611
+955,2019-02-05,Pearlie Sears,60,0,UnEmployed,Emergence_Expenses,1606,2852
+956,2021-08-15,Robert Fischer,36,7631,Employed,Weddings,4844,3024
+957,2020-10-13,Charles Haigh,55,0,UnEmployed,Emergence_Expenses,4413,3998
+958,2021-03-28,Karen Olofson,85,8014,Employed,Traveling,6475,1588
+959,2023-07-16,Juan Hill,42,9141,Employed,Medical_Expenses,5000,2829
+960,2020-11-21,Edmund Rice,93,3525,Employed,Weddings,2043,4690
+961,2014-12-13,Ann Mason,53,9775,Employed,Medical_Expenses,9108,1719
+962,2024-05-08,Darrel Polito,85,3158,Employed,Education,7958,4508
+963,2021-05-28,Diane Martin,52,9257,Employed,Investing,6609,753
+964,2011-04-26,Fernando Blanding,54,3767,Employed,Business,7968,2153
+965,2021-02-10,Rosie Uhl,98,7793,Employed,Investing,1674,4071
+966,2013-03-02,Heather Poulton,96,0,UnEmployed,Traveling,2598,3449
+967,2012-12-27,Keith Heller,81,2604,Employed,Medical_Expenses,4854,2610
+968,2019-09-10,Silvia Williamson,48,5239,Employed,Investing,2832,3169
+969,2016-08-08,Cecilia Campbell,68,0,UnEmployed,Weddings,7705,1241
+970,2023-12-12,Michael Fernando,23,5471,Employed,Medical_Expenses,9686,898
+971,2019-11-12,Mary Marks,56,9634,Employed,Traveling,9522,4061
+972,2019-11-28,Connie Miller,79,6513,Employed,Education,7209,2025
+973,2020-03-20,Diane Nickels,61,6210,Employed,Emergence_Expenses,6760,1102
+974,2024-07-06,Juana Stedman,53,6521,Employed,Medical_Expenses,5912,4107
+975,2024-02-25,Landon Gebhardt,46,5910,Employed,Traveling,6769,2787
+976,2020-05-23,Melissa Culbreth,94,8712,Employed,Emergence_Expenses,6920,690
+977,2017-12-20,Kandy Thrower,36,3652,Employed,Emergence_Expenses,4344,3848
+978,2014-12-24,Mark Worthington,93,3729,Employed,Personal Use,2905,4531
+979,2018-06-20,Larry Brown,36,0,UnEmployed,Investing,8750,4144
+980,2022-07-17,Bobby Swafford,92,6046,Employed,Weddings,4239,553
+981,2017-04-10,William Farris,75,9918,Employed,Personal Use,7043,1354
+982,2012-04-08,Madeleine Scott,25,5642,Employed,Medical_Expenses,2869,3638
+983,2013-07-05,Janice Dear,98,8758,Employed,Emergence_Expenses,2093,3663
+984,2010-02-18,Tracie Clark,92,4650,Employed,Education,9362,807
+985,2022-02-17,Joseph Drozd,82,7729,Employed,Personal Use,7398,3663
+986,2010-12-05,Eula Ansari,61,5350,Employed,Personal Use,8461,2274
+987,2010-04-07,Gladys Settle,73,0,UnEmployed,Traveling,9027,3476
+988,2012-05-02,Annette Reza,72,5060,Employed,Emergence_Expenses,2406,4259
+989,2011-05-25,Larry Hickerson,43,4323,Employed,Business,4556,3562
+990,2015-08-12,Jim Gomez,74,0,UnEmployed,Education,4330,4666
+991,2022-04-12,Roger Long,36,9351,Employed,Investing,2939,1851
+992,2010-07-30,Shiela Wallace,82,4222,Employed,Medical_Expenses,770,3099
+993,2010-06-14,James Knutson,29,6611,Employed,Medical_Expenses,9860,1929
+994,2020-12-14,Violeta Ball,88,4164,Employed,Weddings,1698,4340
+995,2018-12-17,Fred Burgess,94,3805,Employed,Investing,7020,1389
+996,2021-10-30,Lillie Cornelius,93,7833,Employed,Traveling,8593,903
+997,2013-06-13,Elaine Trautman,50,7695,Employed,Medical_Expenses,2989,668
+998,2023-10-20,James Singer,71,9332,Employed,Emergence_Expenses,6120,3545
+999,2012-08-21,Raymond Gough,46,0,UnEmployed,Weddings,5701,503
+1000,2021-02-03,Ruth Price,69,6804,Employed,Weddings,2680,1373
